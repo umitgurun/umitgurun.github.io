@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar-nav .nav-link {
+    margin-right: 15px;
+}
+
+.container {
+    max-width: 800px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+h2 {
+    color: #2c3e50;
+}
+
+p {
+    color: #34495e;
+}
+.dropdown_submenu {
+    display: none;
+}
+
+a{
+    color: hsl(28, 78%, 44%);
+}
+
+@media (max-width: 576px) {
+    .navbar-nav {
+        text-align: center;
+    }
+}
