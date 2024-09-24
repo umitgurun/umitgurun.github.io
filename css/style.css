@@ -1,37 +1,82 @@
 body {
-    font-family: Arial, sans-serif;
+  font-family: Arial, sans-serif;
 }
 
 .navbar-nav .nav-link {
-    margin-right: 15px;
+  margin-right: 15px;
 }
 
 .container {
-    max-width: 800px;
+  max-width: 800px;
 }
 
 img {
-    max-width: 100%;
-    height: auto;
+  max-width: 100%;
+  height: auto;
 }
 
 h2 {
-    color: #2c3e50;
+  color: #2c3e50;
 }
 
 p {
-    color: #34495e;
+  color: #34495e;
 }
 .dropdown_submenu {
-    display: none;
+  display: none;
 }
 
-a{
-    color: hsl(28, 78%, 44%);
+a {
+  color: hsl(28, 78%, 44%);
+}
+.btn-main{
+    background-color: hsl(28, 78%, 44%);
+    color: #fff;
+}
+.btn-main:hover{
+    background-color: hsl(28, 77%, 38%);
+    color: #fff;
 }
 
 @media (max-width: 576px) {
-    .navbar-nav {
-        text-align: center;
-    }
+  .navbar-nav {
+    text-align: center;
+  }
+}
+
+#floatingSearchBar {
+    position: fixed;
+    top: -100px;
+    left: 0;
+    right: 0;
+    width: 100%;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    z-index: 999;
+    transition: top 0.5s ease-in-out, opacity 0.3s ease; /* Add transition for opacity */
+    opacity: 0; /* Start with opacity 0 */
+}
+
+.search-active #floatingSearchBar {
+    top: 0;
+    opacity: 1; /* Make it visible */
+}
+
+#backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 998;
+    opacity: 0; /* Start with opacity 0 */
+    visibility: hidden; /* Start with hidden */
+    transition: opacity 0.3s ease, visibility 0.3s ease; /* Transition for opacity and visibility */
+}
+
+.search-active #backdrop {
+    opacity: 1; /* Make it visible */
+    visibility: visible; /* Make it visible */
 }
