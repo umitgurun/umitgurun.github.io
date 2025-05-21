@@ -8,8 +8,8 @@
   "research": [
     {
       "title": "The ESG – Innovation Disconnect: Evidence from Green Patenting",
-      "journal": "Management Science (2025, forthcoming)",
-      "authors": "(with Lauren Cohen and Quoc Nguyen)",
+      "journal": "(with Lauren Cohen and Quoc Nguyen)",
+      "authors": "Management Science (2025, forthcoming)",
       "abstract": "No firm or sector of the global economy is untouched by innovation. In equilibrium, innovators will flock to (and innovation will occur) where the returns to innovative capital are the highest. In this paper, we document a strong empirical pattern in green patent production. Specifically, we find that oil, gas, and energy-producing firms – firms with lower Environmental, Social, and Governance (ESG) scores, and who are often explicitly excluded from ESG funds' investment universe – are key innovators in the United States' green patent landscape. These energy producers produce more, and significantly higher quality, green innovation. In many green technology spaces, they appear to be influential first-movers, not easily substitutable, and to produce ongoing foundational aspects of innovation and commercialization on which other alternative energy producers build. This is broadly true across the green patenting spectrum, and continues through the present day, concentrating specifically in certain green technology branches (for instance, in carbon capture).",
       "citation": "@article{lauren2025, title={The ESG – Innovation Disconnect: Evidence from Green Patenting}, author={Lauren Cohen and Quoc Nguyen, Gurun, Umit}, journal={Management Science (2025, forthcoming)}, url={https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3718682}, year={2025}}",
       "pdf": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3718682"
