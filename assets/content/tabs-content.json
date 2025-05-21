@@ -1,0 +1,669 @@
+{
+  "about": [
+    "Umit Gurun is Stan Liebowitz professor of finance and accounting at the University of Texas at Dallas. He received his Ph.D from Michigan State University. He is a past visiting professor at the University of Texas at Austin (2010-2011), Harvard University (2014), and a research economist at NBER (2015-2021). He is currently an associate editor at the Review of Financial Studies.",
+    "Professor Gurun's research focuses on a variety of issues in empirical asset pricing and corporate finance, including the impact of financial media and advertising on asset prices; the impact of counterfeit products on brand images, and firm valuation, labor disputes, among others.",
+    "His research has been published in top journals, including Science, American Economic Review: Insights, Journal of Finance, Review of Financial Studies, Journal of Financial Economics, Journal of Financial and Quantitative Analysis, Journal of Accounting Research, Management Science, and Harvard Business Review. His recent research relates to the effects of patent litigation on corporate innovation. In this vein, he has been awarded a National Science Foundation grant to investigate the effects of patent litigation policy on innovation outputs.",
+    "He received distinguished associate editor awards from Management Science multiple times, and a distinguished referee award from the Review of Financial Studies in 2019. Finally, his research has also attracted attention in the popular press, with cites in the Financial Times, Wall Street Journal, Institutional Investor, Fortune, and the Economist."
+  ],
+  "research": [
+    {
+      "title": "The ESG – Innovation Disconnect: Evidence from Green Patenting",
+      "journal": "Management Science (2025, forthcoming)",
+      "authors": "(with Lauren Cohen and Quoc Nguyen)",
+      "abstract": "No firm or sector of the global economy is untouched by innovation. In equilibrium, innovators will flock to (and innovation will occur) where the returns to innovative capital are the highest. In this paper, we document a strong empirical pattern in green patent production. Specifically, we find that oil, gas, and energy-producing firms – firms with lower Environmental, Social, and Governance (ESG) scores, and who are often explicitly excluded from ESG funds' investment universe – are key innovators in the United States' green patent landscape. These energy producers produce more, and significantly higher quality, green innovation. In many green technology spaces, they appear to be influential first-movers, not easily substitutable, and to produce ongoing foundational aspects of innovation and commercialization on which other alternative energy producers build. This is broadly true across the green patenting spectrum, and continues through the present day, concentrating specifically in certain green technology branches (for instance, in carbon capture).",
+      "citation_number": "[27]",
+      "citation": "@article{lauren2025, title={The ESG – Innovation Disconnect: Evidence from Green Patenting}, author={Lauren Cohen and Quoc Nguyen, Gurun, Umit}, journal={Management Science (2025, forthcoming)}, url={https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3718682}, year={2025}}",
+      "pdf": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3718682"
+    },
+    {
+      "title": "Do Wall Street Landlords Undermine Renters' Welfare?",
+      "journal": "(with Jiabin Wu, Serena Xiao, and Steven Xiao)",
+      "authors": "Review of Financial Studies (2024)",
+      "abstract": "We examine the recent rise of institutional investment in the single-family home rental market and its implications for renters' welfare. Using institutional mergers to identify local exogenous variation in institutional landlords' scale and market share, we show that rents increase in neighborhoods where both merging firms owned properties (i.e., overlapped neighborhoods) relative to other nonoverlapped neighborhoods. Meanwhile, the crime rate also significantly decreases in overlapped neighborhoods after mergers. Our findings suggest that while institutional landlords leverage their market power to extract greater surplus from renters, they also improve the quality of rental services by enhancing neighborhood safety.",
+      "citation_number": "[26]",
+      "citation": "@article{gurun2023wall,title={Do Wall Street landlords undermine renters' welfare?},author={Gurun, Umit G and Wu, Jiabin and Xiao, Steven Chong and Xiao, Serena Wenjing},journal={The Review of Financial Studies},volume={36},number={1},pages={70--121},year={2023},publisher={Oxford University Press}}",
+      "pdf": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4473423"
+    },
+    {
+      "title": "Disaster Lending: 'Fair' Prices, but 'Unfair' Access",
+      "journal": "(with Taylor Begley, Amiyatosh Purnanandam, and Daniel Weagley)",
+      "authors": "Management Science (2024)",
+      "abstract": "We find the Small Business Administration's disaster-relief home loan program denies significantly more loans in areas with larger shares of minorities, subprime borrowers, and higher income inequality. We find that risk-insensitive loan pricing, a feature present in many regulated and government-run lending programs, is an important driver of these disparities in access to credit. The differences in denial rates are disproportionately high compared with private-market lending and government-insured risk-sensitive loan pricing programs. Thus, despite ensuring 'fair' prices, the use of risk-insensitive pricing may lead to 'unfair' access to credit.",
+      "citation_number": "[25]",
+      "citation": "@article{taylor2024,title={Disaster Lending: 'Fair' Prices, but 'Unfair' Access},author={Taylor Begley and Amiyatosh Purnanandam and and Daniel Weagley, Gurun, Umit},journal={Management Science},url={https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060413},year={2024}}",
+      "pdf": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060413"
+    },
+    {
+      "title": "Buying the Verdict",
+      "journal": "(with Lauren Cohen)",
+      "authors": "Management Science (2024)",
+      "abstract": "We document evidence that firms systematically increase specialized, locally targeted advertising following the firm being taken to trial in that given location, precisely following initiation of the suit. In particular, we use legal actions brought against publicly traded firms over the 20-year sample period that progress to trial between 1995 and 2014. In terms of magnitude, the increase is sizable: targeted local advertising increases by 23% (t = 4.37) following the suit. They focus their advertisement spikes specifically toward jury trials, and in fact specifically toward the most likely jury pool. Last, we document that these advertising spikes are associated with verdicts, increasing the probability of a favorable outcome.",
+      "citation_number": "[24]",
+      "citation": "@article{lauren2024,title={Buying the Verdict},author={Lauren Cohen, Gurun, Umit},journal={Management Science},url={https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2928406},year={2024}}",
+      "pdf": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2928406"
+    },
+    {
+      "title": "Measuring and Improving Stakeholder Welfare is Easier Said Than Done",
+      "journal": "(with Jordan Nickerson and David Solomon)",
+      "authors": "Journal of Financial and Quantitative Analysis (2023)",
+      "abstract": "While corporate social responsibility by firms aims at improving welfare for different social groups, whether it achieves this is often difficult to measure. After Apr. 2018 protests, Starbucks enacted policies that anybody could sit in their stores and use the bathroom without making a purchase. Using anonymized cellphone location data, we estimate this led to a 7.0% decline in attendance relative to other nearby coffee shops. The effect is 84% larger near homeless shelters and larger for Starbucks' wealthier customers. The average time spent per visit declined by 4.1%. Public urination citations decreased near Starbucks locations, but other minor crimes were unchanged.",
+      "citation_number": "[23]",
+      "citation": "@article{jordan2023,title={Measuring and Improving Stakeholder Welfare is Easier Said Than Done},author={Jordan Nickerson and David Solomon, Gurun, Umit},journal={Journal of Financial and Quantitative Analysis},url={https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3959727},year={2023}}",
+      "pdf": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3959727"
+    },
+    {
+      "title": "Fake Products, Real Effects: Evidence from Special 301 Actions",
+      "journal": "(with Mehmet Canayaz)",
+      "authors": "Journal of Financial and Quantitative Analysis (2023)",
+      "abstract": "We study how the U.S. government's anti-counterfeiting enforcement actions through Special 301 Reports influence U.S. businesses. We show that anti-counterfeiting enforcement in foreign countries improves U.S. firms' sales, profitability, and valuations. Firms significantly reduce capital and research and development investments when their brands and products are protected from counterfeiting activities. Anti-counterfeiting enforcement measures also improve brand asset value, brand profitability, brand inventiveness, market penetration, and customer loyalty.",
+      "citation_number": "[22]",
+      "citation": "@article{mehmet2023,title={Fake Products, Real Effects: Evidence from Special 301 Actions},author={Mehmet Canayaz, Gurun, Umit},journal={Journal of Financial and Quantitative Analysis},url={https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3209071},year={2023}}",
+      "pdf": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3209071"
+    },
+    {
+      "title": "Don't Take Their Word For It: The Misclassification of Bond Mutual Funds",
+      "journal": "(with Huaizhi Chen and Lauren Cohen)",
+      "authors": "Journal of Finance (2021)",
+      "abstract": "We provide evidence that bond fund managers misclassify their holdings, and that these misclassifications have a real and significant impact on investor capital flows. The problem is widespread, resulting in up to 31.4% of funds being misclassified with safer profiles, compared to their true, publicly reported holdings. 'Misclassified funds'—those that hold risky bonds but claim to hold safer bonds—appear to on-average outperform lower risk funds in their peer groups. Within category groups, misclassified funds receive more Morningstar stars and higher investor flows. However, when we correctly classify them based on actual risk, these funds are mediocre performers.",
+      "citation_number": "[21]",
+      "citation": "@article{chen2021don,title={Don't take their word for it: the misclassification of bond mutual funds},author={Chen, Huaizhi and Cohen, Lauren and Gurun, Umit G},journal={The Journal of Finance},volume={76},number={4},pages={1699--1730},year={2021},publisher={Wiley Online Library}}",
+      "pdf": "https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.12727"
+    },
+    {
+      "title": "Unlocking Clients: The Importance of Relationships in the Financial Advisory Industry",
+      "journal": "(with Noah Stoffman and Scott Yonker)",
+      "authors": "Journal of Financial Economics (2021)",
+      "abstract": "We investigate the importance of client relationships in the financial advisory industry. We exploit firm-level variation in adoption of the Broker Protocol, which enabled clients to follow their advisers to member firms without fear of litigation. We show that advisers' ability to maintain client relationships is a significant predictor of their employment decisions; that about 40% of client assets follow advisers when they move; and that once clients are unlocked, firms become less willing to fire advisers for misconduct. Firms that unlock their clients subsequently experience higher levels of misconduct and increase their fees, calling into question whether clients are better off.",
+      "citation_number": "[20]",
+      "citation": "@article{gurun2021unlocking,title={Unlocking clients: The importance of relationships in the financial advisory industry},author={Gurun, Umit G and Stoffman, Noah and Yonker, Scott E},journal={Journal of Financial Economics},volume={141},number={3},pages={1218--1243},year={2021},publisher={Elsevier}}",
+      "pdf": "https://www.sciencedirect.com/science/article/abs/pii/S0304405X17303240"
+    },
+    {
+      "title": "Internal Deadlines, Drug Approvals, and Safety Problems",
+      "journal": "(with Lauren Cohen and Danielle Li)",
+      "authors": "American Economic Review: Insights (2021)",
+      "abstract": "Absent explicit quotas, incentives, reporting, or fiscal year-end motives, drug approvals around the world surge in December, at month-ends, and before respective major national holidays. Drugs approved before these informal deadlines are associated with significantly more adverse effects, including more hospitalizations, life-threatening incidents, and deaths – particularly, drugs most rushed through the approval process. These patterns are consistent with a model in which regulators face pressure to approve drugs before holidays and weekends.",
+      "citation_number": "[19]",
+      "citation": "@article{cohen2021internal,title={Internal deadlines, drug approvals, and safety problems},author={Cohen, Lauren and Gurun, Umit G and Li, Danielle},journal={American Economic Review: Insights},volume={3},number={1},pages={67--82},year={2021},publisher={American Economic Association 2014 Broadway, Suite 305, Nashville, TN 37203}}",
+      "pdf": "https://www.aeaweb.org/articles?id=10.1257/aeri.20200588"
+    },
+    {
+      "title": "Investment in a Smaller World: The Implications of Air Travel for Investors and Firm",
+      "journal": "(with Zhi Da, Bin Li, and Mitch Warachka)",
+      "authors": "Management Science (2021)",
+      "abstract": "A large literature reports that proximity influences investment. We extend the measurement of proximity beyond distance and report that air travel reduces local investment bias. This result is confirmed using the initiation of connecting flights through recently opened air hubs because investment at destinations served by these connecting flights increases after, not before, their initiation. Air travel also broadens the investor base of firms and lowers their cost of equity by approximately 1%. Overall, air travel improves the diversification of investor portfolios and lowers the cost of equity for firms.",
+      "citation_number": "[18]",
+      "citation": "@article{da2021investment,title={Investment in a smaller world: The implications of air travel for investors and firms},author={Da, Zhi and Gurun, Umit G and Li, Bin and Warachka, Mitch},journal={Management Science},volume={67},number={1},pages={417--435},year={2021},publisher={INFORMS}}",
+      "pdf": "https://umitgurun.github.io/assets/gurun_investment.pdf"
+    },
+    {
+      "title": "IQ from IP: Simplifying Search in Portfolio Choice",
+      "journal": "(with Huaizhi Chen, Lauren Cohen, Dong Lou, and Chris Malloy)",
+      "authors": "Journal of Financial Economics (2020)",
+      "abstract": "Using a novel database that tracks web traffic on the Security Exchange Commission's EDGAR server between 2004 and 2015, we show that institutional investors gather information on a very particular subset of firms and insiders, and their surveillance is very persistent over time. This tracking behavior has powerful implications for their portfolio choice and its information content. An institution that downloaded an insider trading filing by a given firm last quarter increases its likelihood of downloading an insider trading filing on the same firm by more than 41.3 percentage points this quarter. Moreover, the average tracked stock that an institution buys generates annualized alphas of over 12% relative to the purchase of an average non tracked stock. We find that institutional managers tend to track top executives and to share educational and locational commonalities with the specific insiders they choose to follow. Collectively, our results suggest that the information in tracked trades is important for fundamental firm value and is only revealed following the information-rich dual trading by insiders and linked institutions.",
+      "citation_number": "[17]",
+      "citation": "@article{chen2020iq,title={IQ from IP: Simplifying search in portfolio choice},author={Chen, Huaizhi and Cohen, Lauren and Gurun, Umit and Lou, Dong and Malloy, Christopher},journal={Journal of Financial Economics},volume={138},number={1},pages={118--137},year={2020},publisher={Elsevier}}",
+      "pdf": "https://umitgurun.github.io/assets/gurun_ipfromiq.pdf"
+    },
+    {
+      "title": "Shuffling Through the Bargain Bin: Real Estate Holdings of Public Firms",
+      "journal": "(with Irem Demirci and Erkan Yonder)",
+      "authors": "Review of Finance (2020)",
+      "abstract": "Constructing a novel database on the real-estate holdings of public firms, we show that distressed firms sell their real-estate assets at a discount relative to healthy firms. We find that distress discount in real-estate assets is less pronounced for sellers with less liquidity-constrained industry peers and in machinery-heavy industries. We also document that asset redeployability and the availability of potential buyers are two important property-specific determinants of the distress discount. Additionally, firms' property portfolios that are less redeployable with less potential buyers exacerbate the negative impact of financial distress on the cost of borrowing.",
+      "citation_number": "[16]",
+      "citation": "@article{demirci2020shuffling,title={Shuffling through the bargain bin: Real-estate holdings of public firms},author={Demirci, Irem and Gurun, Umit G and Yonder, Erkan},journal={Review of Finance},volume={24},number={3},pages={647--675},year={2020},publisher={Oxford University Press}}",
+      "pdf": "https://umitgurun.github.io/assets/gurun_bargain.pdf"
+    },
+    {
+      "title": "Patent Trolls: Evidence from Targeted Firms",
+      "journal": "(with Lauren Cohen and Scott D. Kominers)",
+      "authors": "Management Science (2019)",
+      "abstract": "We provide the first large-sample evidence on the behavior and impact of non-practicing entities (NPEs) in the intellectual property space. We find that, on average, NPEs appear to behave as opportunistic patent trolls. NPEs sue cash-rich firms and target cash in business segments unrelated to alleged infringement at essentially the same frequency as they target cash in segments related to alleged infringement. By contrast, cash is neither a key driver of intellectual property lawsuits by practicing entities (e.g., IBM and Intel) nor of any other type of litigation against firms. We find further suggestive evidence of NPE opportunism: targeting of firms that have reduced ability to defend themselves, repeated assertions of lower-quality patents, increased assertion activity nearing patent expiration, and forum shopping. We find, moreover, that NPE litigation has a real negative impact on innovation at targeted firms: firms substantially reduce their innovative activity after settling with NPEs (or losing to them in court). Meanwhile, we neither find any markers of significant NPE pass-through to end innovators, nor of a positive impact of NPEs on innovation in the industries in which they are most prevalent.",
+      "citation_number": "[15]",
+      "citation": "@article{cohen2019patenttitle={Patent trolls: Evidence from targeted firms}author={Cohen, Lauren and Gurun, Umit G and Kominers, Scott Duke}journal={Management Science}volume={65}number={12}pages={5461--5486}year={2019}publisher={INFORMS}}",
+      "pdf": "https://umitgurun.github.io/assets/gurun_troll2.pdf"
+    },
+    {
+      "title": "Trust Busting: The Effect of Fraud on Investor Behavior",
+      "journal": "(with Noah Stoffman and Scott Yonkers)",
+      "authors": "Review of Financial Studies (2018)",
+      "abstract": "We study the importance of trust in the investment advisory industry by exploiting the geographic dispersion of victims of the Madoff Ponzi scheme. Residents of communities that were exposed to the fraud subsequently withdrew assets from investment advisers and increased deposits at banks. Additionally, exposed advisers were more likely to close. Advisers who provided services that can build trust, such as financial planning advice, experienced fewer withdrawals. Our evidence suggests that the trust shock was transmitted through social networks. Taken together, our results show that trust plays a critical role in the financial intermediation industry.",
+      "citation_number": "[14]",
+      "citation": "@article{gurun2018trust,title={Trust busting: The effect of fraud on investor behavior},author={Gurun, Umit G and Stoffman, Noah and Yonker, Scott E},journal={The Review of Financial Studies},volume={31},number={4},pages={1341--1376},year={2018},publisher={Oxford University Press}}",
+      "pdf": "https://umitgurun.github.io/assets/gurun_trust.pdf"
+    },
+    {
+      "title": "Lender's Response to Customer Restatements",
+      "journal": "(with Rebecca Files)",
+      "authors": "Contemporary Accounting Research (2018)",
+      "abstract": "We investigate whether restatements announced by economically related firms influence the contract terms a borrower receives from lenders. A restatement by a major customer firm increases the loan spread of a borrower by 11 basis points, on average. The contagion effects of customer restatements are higher (45 basis points) when a borrower's switching costs are high. Restatements by peer firms in the same industry also increase a borrower's loan spread, and this increase occurs regardless of restatement severity. Moreover, the sensitivity of loan spread to peer restatements is significantly greater when the restating peer firms are also in the bank's lending portfolio, suggesting that a lender's personal experience with restatements in an industry makes it more attuned to the potential implications of these restatements for the borrowing firm. Finally, our results suggest that lenders utilize information from peer restatements to anticipate future restatements by the borrowing firm.",
+      "citation_number": "[13]",
+      "citation": "@article{rebecca2018,title={Lender's Response to Customer Restatements},author={Rebecca Files, Gurun, Umit},journal={Contemporary Accounting Research},url={https://umitgurun.github.io/assets/gurun_restatement.pdf},year={2018}}",
+      "pdf": "https://umitgurun.github.io/assets/gurun_restatement.pdf"
+    },
+    {
+      "title": "Resident Networks and Corporate Connections: Evidence from World War II Internment Camps",
+      "journal": "(with Lauren Cohen and Chris Malloy)",
+      "authors": "Journal of Finance (2017)",
+      "abstract": "Using customs and port authority data, we show that firms are significantly more likely to trade with countries that have a large resident population near their firm headquarters, and that these connected trades are their most valuable international trades. Using the formation of World War II Japanese internment camps to isolate exogenous shocks to local ethnic populations, we identify a causal link between local networks and firm trade. Firms are also more likely to acquire target firms, and report increased segment sales, in connected countries. Our results point to a surprisingly large role of immigrants as economic conduits for firms.",
+      "citation_number": "[12]",
+      "citation": "@article{lauren2017,title={Resident Networks and Corporate Connections: Evidence from World War II Internment Camps},author={Lauren Cohen and Chris Malloy, Gurun, Umit},journal={Journal of Finance},url={https://umitgurun.github.io/assets/gurun_resident.pdf},year={2017}}",
+      "pdf": "https://umitgurun.github.io/assets/gurun_resident.pdf"
+    },
+    {
+      "title": "'Troll' Check: A Proposal for Administrative Review of Patent Litigation",
+      "journal": "(with Lauren Cohen, John Golden, and Scott D. Kominers)",
+      "authors": "Boston University Law Review (2017)",
+      "abstract": "The patent system is commonly justified as a way to promote social welfare and, more specifically, technological progress. For years, however, there has been concern that patent litigation is undermining, rather than furthering, these goals. Particularly in the United States, the time, cost, and complications of patent suits provide openings for opportunistic assertions of infringement. This Article proposes a way to address information problems that facilitate opportunistic assertion: an automatic process of administrative review at the threshold of infringement lawsuits in U.S. district courts. The results of this review would be non-binding but admissible in later court proceedings. Whether conducted by an independent Patent Litigation Review Board or a division of the U.S. Patent and Trademark Office, such review would: (1) help discourage—or bring to an earlier and less costly end—relatively weak patent-infringement lawsuits; (2) strengthen the litigation and bargaining positions of patentees with especially robust cases; (3) flag weaknesses in litigation positions to the benefit of private parties and the courts; and (4) provide policymakers with information that facilitates evaluation and adjustment of patent system performance.",
+      "citation_number": "[11]",
+      "citation": "@article{lauren2017,title={'Troll' Check: A Proposal for Administrative Review of Patent Litigation},author={Lauren Cohen and John Golden and and Scott D. Kominers, Gurun, Umit},journal={Boston University Law Review},url={https://umitgurun.github.io/assets/gurun_trollcheck.pdf},year={2017}}",
+      "pdf": "https://umitgurun.github.io/assets/gurun_trollcheck.pdf"
+    },
+    {
+      "title": "Substitution between Sources of Finance in Consumer Capital Markets",
+      "authors": "(with Alex Butler and Jess Cornaggia)",
+      "journal": "Management Science (2017)",
+      "abstract": "This paper uses detailed data from an online peer-to-peer lending intermediary to test whether local access to finance affects consumers' willingness to pay for loans. After controlling for local economic conditions and borrower credit quality, we find that borrowers who reside in areas with good access to bank finance request loans with lower interest rates. This effect is stronger for borrowers with poor credit and those seeking small loans, suggesting that local access to finance is more important for marginal borrowers. Overall, our findings shed light on how consumers substitute between alternative sources of finance.",
+      "citation_number": "[10]",
+      "citation": "@article{alex2017,title={Substitution between Sources of Finance in Consumer Capital Markets},author={Alex Butler and Jess Cornaggia, Gurun, Umit},journal={Management Science},url={https://umitgurun.github.io/assets/gurun_substitute.pdf},year={2017}}",
+      "pdf": "https://umitgurun.github.io/assets/gurun_substitute.pdf"
+    },
+    {
+      "title": "Patent Trolling Isn't Dead — It's Just Moving to Delaware",
+      "journal": "(with Lauren Cohen and Scott D. Kominers)",
+      "authors": "Harvard Business Review (2017)",
+      "abstract": "This paper documents shifts in patent litigation strategy following legal reforms. We show that non-practicing entities have adapted to regulatory changes by relocating litigation activities to favorable jurisdictions.",
+      "citation_number": "[9]",
+      "citation": "@article{lauren2017,title={Patent Trolling Isn't Dead — It's Just Moving to Delaware},author={Lauren Cohen and Scott D. Kominers, Gurun, Umit},journal={Harvard Business Review},url={https://umitgurun.github.io/assets/gurun_troll.pdf},year={2017}}",
+      "pdf": "https://umitgurun.github.io/assets/gurun_troll.pdf"
+    },
+    {
+      "title": "Advertising Expensive Mortgages",
+      "journal": "(with Gregor Matvos and Amit Seru)",
+      "authors": "Journal of Finance (2016)",
+      "abstract": "Using information on advertising and mortgages originated by subprime lenders, we study whether advertising helped consumers find cheaper mortgages. Lenders that advertise more within a region sell more expensive mortgages, measured as the excess rate of a mortgage after accounting for borrower, contract, and regional characteristics. These effects are stronger for mortgages sold to less sophisticated consumers. We exploit regional variation in mortgage advertising induced by the entry of Craigslist and other tests to demonstrate that these findings are not spurious. Analyzing advertising content reveals that initial/introductory rates are frequently advertised in a salient fashion, where reset rates are not.",
+      "citation_number": "[8]",
+      "citation": "@article{gurun2016advertising,title={Advertising expensive mortgages},author={Gurun, Umit G and Matvos, Gregor and Seru, Amit},journal={The Journal of Finance},volume={71},number={5},pages={2371--2416},year={2016},publisher={Wiley Online Library}}",
+      "pdf": "http://umitgurun.github.io/assets/gurun_mortgageadvertising.pdf"
+    },
+    {
+      "title": "The Growing Problem of Patent Trolling",
+      "journal": "(with Lauren Cohen and Scott D. Kominers)",
+      "authors": "Science (2016)",
+      "abstract": "We provide the first large-sample evidence on the behavior and impact of non-practicing entities (NPEs) in the intellectual property space. We find that, on average, NPEs appear to behave as opportunistic patent trolls. NPEs sue cash-rich firms and target cash in business segments unrelated to alleged infringement at essentially the same frequency as they target cash in segments related to alleged infringement. By contrast, cash is neither a key driver of intellectual property lawsuits by practicing entities (e.g., IBM and Intel) nor of any other type of litigation against firms. We find further suggestive evidence of NPE opportunism: targeting of firms that have reduced ability to defend themselves, repeated assertions of lower-quality patents, increased assertion activity nearing patent expiration, and forum shopping.",
+      "citation_number": "[7]",
+      "citation": "@article{cohen2016growing,title={The growing problem of patent trolling},author={Cohen, Lauren and Gurun, Umit G and Kominers, Scott Duke},journal={Science},volume={352},number={6285},pages={521--522},year={2016},publisher={American Association for the Advancement of Science}}",
+      "video": "https://www.youtube.com/watch?v=ClpzNQVljjY",
+      "pdf": "https://umitgurun.github.io/assets/gurun_troll.pdf"
+    },
+    {
+      "title": "Sell-Side Debt Analysts and Market Efficiency",
+      "journal": "(with Rick Johnston and Stanimir Markov)",
+      "authors": "Management Science (2016)",
+      "abstract": "We explore sell-side debt analysts' contributions to the efficiency of securities markets. We document that debt returns lag equity returns less when debt research coverage exists, which is consistent with debt analysts facilitating the process by which available information is impounded in debt prices. The effect of debt research on the debt market's lag is incremental to, but comparable in magnitude to, hedge fund ownership's effect. No such effect exists for credit rating agencies. We also find that the dissemination of debt reports has an immediate effect on return volatility in both markets, which is consistent with debt analysts providing new information to securities markets. Increased return covariation suggests that this information impacts the pricing of debt and equity in the same direction. A large percentage of debt reports do not induce any immediate debt market return reaction but do induce an equity return reaction, which is consistent with new information being provided despite the absence of a debt market reaction. Finally, there is a systematic variation in the debt market's trading and return reactions to debt research. Timely reports and those by high-reputation brokers induce a quicker trading response, thus enhancing liquidity, whereas only timely reports induce a greater return response. This study illuminates the institutional underpinnings of debt market efficiency, and it has important implications for information content tests in the debt market, where trading is limited.",
+      "citation_number": "[6]",
+      "citation": "@article{rick2016,title={Sell-Side Debt Analysts and Market Efficiency},author={Rick Johnston and Stanimir Markov, Gurun, Umit},journal={Management Science},url={https://umitgurun.github.io/assets/gurun_debtanalyst.pdf},year={2016}}",
+      "pdf": "https://umitgurun.github.io/assets/gurun_debtanalyst.pdf"
+    },
+    {
+      "title": "Frog in the Pan: Continuous Information and Momentum",
+      "journal": "(with Zhi Da and Mitch Warachka)",
+      "authors": "Review of Financial Studies (2014)",
+      "abstract": "We test a frog-in-the-pan (FIP) hypothesis that predicts investors are inattentive to information arriving continuously in small amounts. Intuitively, we hypothesize that a series of frequent gradual changes attracts less attention than infrequent dramatic changes. Consistent with the FIP hypothesis, we find that continuous information induces strong persistent return continuation that does not reverse in the long run. Momentum decreases monotonically from 5.94% for stocks with continuous information during their formation period to –2.07% for stocks with discrete information but similar cumulative formation-period returns. Higher media coverage coincides with discrete information and mitigates the stronger momentum following continuous information.",
+      "citation_number": "[5]",
+      "citation": "@article{da2014frog,title={Frog in the pan: Continuous information and momentum},author={Da, Zhi and Gurun, Umit G and Warachka, Mitch},journal={The review of financial studies},volume={27},number={7},pages={2171--2218},year={2014},publisher={Oxford University Press}}",
+      "pdf": "https://umitgurun.github.io/assets/gurun_fip.pdf"
+    },
+    {
+      "title": "Don't Believe the Hype: Local Media Slant, Local Advertising, and Firm Value",
+      "journal": "(with Alex Butler)",
+      "authors": "Journal of Finance (2012)",
+      "abstract": "When local media report news about local companies, they use fewer negative words compared to the same media reporting about nonlocal companies. We document that one reason for this positive slant is the firms' local media advertising expenditures. Abnormal positive local media slant strongly relates to firm equity values. The effect is stronger for small firms; firms held predominantly by individual investors; and firms with illiquid or highly volatile stock, low analyst following, or high dispersion of analyst forecasts. These findings show that news content varies systematically with the characteristics and conflicts of interest of the source.",
+      "citation_number": "[4]",
+      "citation": "@article{gurun2012don,title={Don't believe the hype: Local media slant, local advertising, and firm value},author={Gurun, Umit G and Butler, Alexander W},journal={The Journal of Finance},volume={67},number={2},pages={561--598},year={2012},publisher={Wiley Online Library}}",
+      "pdf": "https://umitgurun.github.io/assets/gurun_hype.pdf"
+    },
+    {
+      "title": "Connected Companies' Compensation",
+      "journal": "(with Alex Butler)",
+      "authors": "Review of Financial Studies (2012)",
+      "abstract": "Mutual funds whose managers are in the same educational network as the firm's CEO are more likely to vote against shareholder-initiated proposals to limit executive compensation than out-of-network funds are. This voting propensity is stronger when voting among the funds in a family is not unanimous. Furthermore, CEOs of firms who have relatively high levels of educationally connected mutual fund ownership have higher levels of compensation than their unconnected counterparts. This aspect of executive compensation is related to both the abnormal trading performance of the connected investors in the firm and the perceived quality of firm management by the connected investor.",
+      "citation_number": "[3]",
+      "citation": "@article{alex2012,title={Connected Companies' Compensation},author={Alex Butler, Gurun, Umit},journal={Review of Financial Studies},url={https://umitgurun.github.io/assets/gurun_ccc.pdf},year={2012}}",
+      "pdf": "https://umitgurun.github.io/assets/gurun_ccc.pdf"
+    },
+    {
+      "title": "Aggregate Market Reaction to Earnings Announcements",
+      "journal": "(with William Cready)",
+      "authors": "Journal of Accounting Research (2010)",
+      "abstract": "This analysis identifies a distinct immediate announcement period negative relation between earnings announcement surprises and aggregate market returns. Such a relation implies that market participants use earnings information in forming expectations about expected aggregate discount rates and, specifically, that good earnings news is associated with a positive shock to required returns. Consistent with this interpretation we find that Treasury bond rates and implied future inflation expectations respond directly to earnings news. We also find some evidence that the negative relation between earnings news and market return persists beyond the immediate announcement period, suggesting that market participants do not immediately fully impound these future market return implications of aggregate earnings news.",
+      "citation_number": "[2]",
+      "citation": "@article{cready2010aggregate,title={Aggregate market reaction to earnings announcements},author={Cready, William M and Gurun, Umit G},journal={Journal of Accounting Research},volume={48},number={2},pages={289--334},year={2010},publisher={Wiley Online Library}}",
+      "pdf": "https://umitgurun.github.io/assets/gurun_earnings.pdf"
+    },
+    {
+      "title": "Volatility clustering and the bid–ask spread: Exchange rate behavior in early Renaissance Florence",
+      "journal": "(with Geoff Booth)",
+      "authors": "Journal of Empirical Finance (2010)",
+      "abstract": "This paper investigates the nature and behavior of the domestic (local) currency market that existed in Florence (Italy) during the late 14th and early 15th centuries (a.k.a. the Early Renaissance). We find that the extant volatility and microstructure models developed for modern asset markets are able to describe the statistical volatility properties observed for the denaro-florin exchange rate. Volatility is clustered and is related to the bid–ask spread. This supports the notion that, although there are huge social, industrial and technological differences between capitalism then and now, individuals trading financial assets in an organized venue behave in a similar manner.",
+      "citation_number": "[1]",
+      "citation": "@article{booth2008volatility,title={Volatility clustering and the bid--ask spread: Exchange rate behavior in early Renaissance Florence},author={Booth, G Geoffrey and Gurun, Umit G},journal={Journal of Empirical Finance},volume={15},number={1},pages={131--144},year={2008},publisher={Elsevier}}",
+      "pdf": "https://umitgurun.github.io/assets/gurun_volatility.pdf"
+    }
+  ],
+  "WP": [
+    {
+      "title": "When Protectionism Kills Talent",
+      "authors": "(with Mehmet Canayaz, Isil Erel, and Yufeng Wu)",
+      "abstract": "Protectionist policies intended to revitalize US chip manufacturing backfired, ultimately weakening the domestic workforce they aimed to rebuild. Instead of fostering talent growth, these measures resulted in a significant decline in hiring for critical science and engineering roles, particularly in entry-level positions and at firms heavily impacted by tariffs. Companies heavily reliant on foreign talent cut back on domestic recruitment and instead shifted to hiring in countries with more favorable immigration policies. US protectionism also discouraged students from pursuing chip-related degrees, leading to a contraction in the domestic talent pipeline. Our conceptual model, which demonstrates how labor supply constraints and rising costs undermine the effectiveness of protectionism, provides a theoretical foundation for these findings.",
+      "citation": "@techreport{canayaz2024protectionism,title={When Protectionism Kills Talent},author={Canayaz, Mehmet I and Erel, Isil and Gurun, Umit G},year={2024},institution={National Bureau of Economic Research}}",
+      "pdf": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4773403"
+    },
+    {
+      "title": "This Land is My Land… Until It's Not: Adverse Possession Laws and Home Values",
+      "authors": "(with Artem Joukov and Vikram Nanda)",
+      "abstract": "Adverse possession laws, which allow 'squatters to seize real estate under certain conditions are controversial, but are justified as being welfare enhancing. We examine economic/welfare implications of these laws using recent statutory changes in Pennsylvania, Colorado, and Alaska. Using a model with direct/spillover effects, we argue that home prices can reflect welfare impact. Consistent with welfare loss, making adverse possession easier (Pennsylvania) lowers home values more than 1%. Conversely, making adverse possession harder (Alaska and Colorado) leads to 1–3% higher values. These findings challenge the notion that adverse possession laws enhance social welfare by incentivizing property maintenance or improvement.",
+      "citation": "@article{artem2025,title={This Land is My Land… Until It's Not: Adverse Possession Laws and Home Values},author={Artem Joukov and Vikram Nanda, Gurun, Umit},journal={Working Paper},url={https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060413},year={2025}}",
+      "pdf": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060413"
+    },
+    {
+      "title": "Gatekeepers and Kingmakers: Do Superplatforms Distort Digital Competition",
+      "authors": "(with Zheng Liu and Steven Xiao)",
+      "abstract": "The rising dominance of superplatforms raises concerns about conflicts of interest and externalities on innovation, as they act as both marketplace gatekeepers and strategic investors. Studying Google's dual role via Google Ventures (GV) and the Android marketplace, we find Google backed startups receive 115% more reviews, 12% higher ratings, and 77% fewer bug complaints than their iOS counterparts—despite no major app updates. These gains stem from selective review removal and platform promotion. Using a difference-in-differences approach with iOS versions as controls, we isolate treatment from selection effects. Our findings challenge platform neutrality and highlight subtle mechanisms of competitive distortion.",
+      "citation": "@article{zheng2025,title={Gatekeepers and Kingmakers: Do Superplatforms Distort Digital Competition},author={Zheng Liu and Steven Xiao, Gurun, Umit},journal={Working Paper},url={https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863436},year={2025}}",
+      "pdf": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863436"
+    },
+    {
+      "title": "Patent Hunters",
+      "authors": "(with Lauren Cohen, Katie Moon and Paula Suh)",
+      "abstract": "Analyzing millions of patents granted by the USPTO between 1976 and 2020, we find a pattern where specific patents only rise to prominence after considerable time has passed. Amongst these late-blooming influential patents, we show that there are key players (patent hunters) who consistently identify and develop them. Although initially overlooked, these late-blooming patents have significantly more influence on average than early-recognized patents and are associated with significantly more new product launches. Patent hunters, as early detectors and adopters of these late-blooming patents, are also associated with significant positive rents. Their adoption of these overlooked patents is associated with a 6.4% rise in sales growth (t=3.02), a 2.2% increase in Tobin's Q (t=3.91), and a 2.2% increase in new product offerings (t=2.97). We instrument for patent hunting, and find strong evidence that these benefits are causally due to patent hunting. The rents associated with patent hunting on average exceed those of the original patent creators themselves. Patents hunted tend to be closer to the core technology of the hunters, more peripheral to the writers, and to be in less competitive spaces. Lastly, patent hunting appears to be a persistent firm characteristic and to have an inventor-level component.",
+      "citation": "@article{lauren2025,title={Patent Hunters},author={Lauren Cohen and Katie Moon and Paula Suh, Gurun, Umit},journal={Working Paper},url={https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635609},year={2025}}",
+      "pdf": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635609"
+    },
+    {
+      "title": "Too Many Managers: Strategic Use of Titles to Avoid Overtime Payments",
+      "authors": "(with Lauren Cohen and Bugra Ozel)",
+      "abstract": "We find widespread evidence of firms avoiding overtime payments through the strategic use of 'managerial' titles. Exploiting a federal mandate in the Fair Labor Standards Act (FLSA), we find an almost five-fold increase in managerial title usage just over the regulatory threshold to avoid overtime payment, including suspect managerial listings such as 'Directors of First Impression,' whose jobs are otherwise equivalent (in this case, to a front desk clerk). Overtime avoidance is more pronounced when firms have stronger bargaining power and employees have weaker rights. Moreover, firms utilize this more when they face financial constraints, as well as when their labor has weaker outside options. Lastly, firms make more use of overtime avoidance tactics in occupations with more volatility in labor demand and when there is more uncertainty in labor scheduling. We find no evidence of long-term employees benefits of these fake titles in terms of future wages or future career progression. In sum, our results are strongly consistent with firms using this flexible tool to their advantage where – and when – the tradeoff is most in their favor to do so. Our prediction dynamics align with litigation realizations and actions taken by the Department of Labor for workplace violations around wage theft precisely to this end. Moreover, the wages avoided are substantial - we estimate that firms avoid roughly 13.5% in compensation costs for each strategic 'manager' hired.",
+      "citation": "@article{lauren2025,title={Too Many Managers: Strategic Use of Titles to Avoid Overtime Payments},author={Lauren Cohen and Bugra Ozel, Gurun, Umit},journal={Working Paper},url={https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3731176},year={2025}}",
+      "pdf": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3731176"
+    },
+    {
+      "title": "Consumption Smoothing via Product Markets",
+      "authors": "(with Alex Butler, Irem Demirci, and Yessenia Tellez)",
+      "abstract": "We investigate how households adjust their shopping behavior in response to financial shocks. Our results show that households exhibit heightened price consciousness in financial downturns. They patronize discount stores more, purchase products they perceive as deals, use coupons more frequently, and consume less nutritious food. Discount stores experience an upswing in sales, while high-end establishments witness declining sales during financially stressful times. These observations underscore the pivotal role of product markets in facilitating consumers' consumption smoothing, particularly in scenarios where borrowing may not be a viable recourse.",
+      "citation": "@article{alex2025,title={Consumption Smoothing via Product Markets},author={Alex Butler and Irem Demirci and and Yessenia Tellez, Gurun, Umit},journal={Working Paper},url={https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3530165},year={2025}}",
+      "pdf": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3530165"
+    }
+  ],
+  "media": [
+    {
+      "title": "Manager titles allegedly given to workers to avoid overtime pay",
+      "source": "NBC News",
+      "date": "May 2, 2023",
+      "url": "https://www.nbcnews.com/now/video/manager-titles-allegedly-given-to-workers-to-avoid-overtime-pay-171553861537",
+      "type": "article"
+    },
+    {
+      "title": "You're Now a 'Manager.' Forget About Overtime Pay",
+      "source": "The New York Times",
+      "date": "Mar 6, 2023",
+      "url": "https://www.nytimes.com/2023/03/06/business/economy/managers-overtime-pay.html",
+      "type": "article"
+    },
+    {
+      "title": "Worker Overtime Pay Is Dying. It Shouldn't Be",
+      "source": "The New York Times (Opinion)",
+      "date": "Feb 1, 2023",
+      "url": "#",
+      "type": "opinion"
+    },
+    {
+      "title": "Whip Inflation With Title Inflation",
+      "source": "The Wall Street Journal",
+      "date": "Jan 12, 2023",
+      "url": "https://www.wsj.com/livecoverage/stock-market-news-today-01-12-2023-cpi-report-december-inflation/card/whip-inflation-with-title-inflation-aIT9yPsVe0CykuHBnP6S",
+      "type": "article"
+    },
+    {
+      "title": "Companies save billions of dollars by giving employees fake 'manager' titles, study shows",
+      "source": "CBS News",
+      "date": "Feb 6, 2023",
+      "url": "https://www.cbsnews.com/news/salary-manager-jobs-fake-titles-4-billion-overtime-avoided-nber/",
+      "type": "article"
+    },
+    {
+      "title": "Your Fancy New Manager Title Might Be Your Boss's Way to Avoid Paying You Overtime",
+      "source": "Bloomberg",
+      "date": "Jan 10, 2023",
+      "url": "https://www.bloomberg.com/news/articles/2023-01-10/dubious-manager-titles-help-companies-avoid-paying-overtime",
+      "type": "article"
+    },
+    {
+      "title": "From shampoo manager to director of first impressions: Bogus job titles are costing workers $4 billion in overtime every year, study finds",
+      "source": "Fortune",
+      "date": "Jan 10, 2023",
+      "url": "https://fortune.com/2023/01/10/how-much-overtime-lost-per-year-wages-flsa-4-billion-job-title-inflation/",
+      "type": "article"
+    },
+    {
+      "title": "Title inflation is hurting employee career growth and company morale",
+      "source": "Business Insider",
+      "date": "Feb 10, 2023",
+      "url": "https://www.businessinsider.com/how-title-inflation-hurt-employees-careers-companies-morale-2022-12",
+      "type": "article"
+    },
+    {
+      "title": "US companies are suddenly saving billions of dollars with crazy pseudo-titles",
+      "source": "Focus",
+      "date": "Feb 9, 2023",
+      "url": "https://amp.focus.de/finanzen/mit-irren-pseudo-titeln-sparen-sich-us-firmen-jetzt-milliarden-dollar_id_185097232.html",
+      "type": "article"
+    },
+    {
+      "title": "Everyone manager: why companies hand out fake job titles",
+      "source": "De Standard",
+      "date": "Feb 8, 2023",
+      "url": "https://www.standaard.be/nieuws/iedereen-manager-waarom-bedrijven-valse-jobtitels-uitdelen/47486709.html",
+      "type": "article"
+    },
+    {
+      "title": "Supervisor of Sandwiches? More Companies Inflate Titles to Avoid Extra Pay",
+      "source": "HBS Working Knowledge",
+      "date": "Feb 7, 2023",
+      "url": "https://www.library.hbs.edu/working-knowledge/supervisor-of-sandwiches-more-companies-inflate-titles-to-avoid-overtime-pay",
+      "type": "article"
+    },
+    {
+      "title": "Companies inflate job titles to avoid paying billions in OT, researchers say",
+      "source": "The National Desk",
+      "date": "Feb 6, 2023",
+      "url": "https://thenationaldesk.com/news/americas-news-now/companies-inflate-job-titles-avoid-paying-billions-overtime-pay-workers-labor-laws-salary-hourly-pay",
+      "type": "article"
+    },
+    {
+      "title": "Firms Inflate Job Titles to Avoid Paying Workers Overtime",
+      "source": "NBER The Digest",
+      "date": "Feb 2023",
+      "url": "https://www.nber.org/digest/20232/firms-inflate-job-titles-avoid-paying-workers-overtime",
+      "type": "article"
+    },
+    {
+      "title": "Has Capitalism Created a Wasteful Excess of Managers?",
+      "source": "FEE Stories",
+      "date": "Jan 18, 2023",
+      "url": "https://fee.org/articles/has-capitalism-created-a-wasteful-excess-of-managers/",
+      "type": "article"
+    },
+    {
+      "title": "In the United States, becoming a manager is not always a great promotion",
+      "source": "La Dépêche",
+      "date": "Jan 17, 2023",
+      "url": "http://ladepeche.fr/2023/01/17/aux-etats-unis-devenir-manager-nest-pas-toujours-une-belle-promotion-10932185.php",
+      "type": "article"
+    },
+    {
+      "title": "Before accepting 'manager' in your title, make sure it's not just a way for your company to avoid paying you overtime",
+      "source": "Business Insider",
+      "date": "Jan 12, 2023",
+      "url": "https://www.businessinsider.com/companies-may-give-fake-manager-titles-avoid-overtime-pay-2023-1",
+      "type": "article"
+    },
+    {
+      "title": "Could you be losing money with a manager title?",
+      "source": "Quartz",
+      "date": "Jan 12, 2023",
+      "url": "https://qz.com/companies-exploit-overtime-with-made-up-managers-1849977126",
+      "type": "article"
+    },
+    {
+      "title": "Suspicious 'nominal managers'- US companies evading 530 billion yen overtime payment",
+      "source": "Bloomberg (Japan)",
+      "date": "Jan 11, 2023",
+      "url": "https://www.bloomberg.co.jp/news/articles/2023-01-11/ROAVZ8T0AFB501",
+      "type": "article"
+    },
+    {
+      "title": "Bosses Give Workers Bullshit 'Manager' Titles To Avoid Paying Overtime: Study",
+      "source": "VICE",
+      "date": "Jan 10, 2023",
+      "url": "https://www.vice.com/en/article/bosses-give-workers-bullshit-manager-titles-to-avoid-paying-overtime-study/",
+      "type": "article"
+    },
+    {
+      "title": "Companies Hand Out Dubious Job Titles to Avoid Paying $4 Billion in Overtime",
+      "source": "Observer",
+      "date": "Jan 9, 2023",
+      "url": "https://observer.com/2023/01/companies-hand-out-dubious-job-titles-to-avoid-paying-4-billion-in-overtime/",
+      "type": "article"
+    },
+    {
+      "title": "The Perils of Private Provision of Public Goods",
+      "source": "Chicago Tribune",
+      "date": "October 21, 2021",
+      "url": "https://www.chicagotribune.com/2021/10/21/everybody-needs-access-to-bathrooms-chicago-doesnt-provide-nearly-enough-of-them/",
+      "type": "article"
+    },
+    {
+      "title": "Why bond funds may be riskier than they seem",
+      "source": "Financial Times",
+      "date": "August 1, 2021",
+      "url": "https://www.ft.com/content/ccc0c0f3-cef4-4504-a768-e50b3695d5f2",
+      "type": "article"
+    },
+    {
+      "title": "Don't take their word for it: the misclassification of bond mutual funds",
+      "source": "The Street",
+      "date": "May 30, 2020",
+      "url": "https://www.thestreet.com/retirement-daily/news-commentary/your-bond-fund-may-be-riskier-than-you-think",
+      "type": "article"
+    },
+    {
+      "title": "How policy makers could address the food-insecurity epidemic",
+      "source": "Chicago Booth Review",
+      "date": "February 24, 2021",
+      "url": "https://www.chicagobooth.edu/review/how-policy-makers-could-address-food-insecurity-epidemic",
+      "type": "article"
+    },
+    {
+      "title": "Exploring the Timing of Reviews and Approvals of New Drugs",
+      "source": "NBER Digest",
+      "date": "January 1, 2021",
+      "url": "https://www.nber.org/digest/202101/exploring-timing-reviews-and-approvals-new-drugs",
+      "type": "article"
+    },
+    {
+      "title": "FDA's deadline problem?",
+      "source": "Wall Street Journal",
+      "date": "January 3, 2020",
+      "url": "https://www.wsj.com/articles/fdas-deadline-problem-11578047402",
+      "type": "article"
+    },
+    {
+      "title": "The skinny on the ongoing Morningstar ratings squabble",
+      "source": "Forbes",
+      "date": "February 11, 2020",
+      "url": "https://www.forbes.com/sites/simonconstable/2020/02/11/the-skinny-on-the-ongoing-morningstar-rating-squabble/#7826aacb6c91",
+      "type": "article"
+    },
+    {
+      "title": "Academics accuse Morningstar of misclassifying bond funds",
+      "source": "Financial Times",
+      "date": "November 11, 2019",
+      "url": "https://www.ft.com/content/674f520a-ff5c-11e9-b7bc-f3fa4e77dd47",
+      "type": "article"
+    },
+    {
+      "title": "Bond investors rely on Morningstar find ratings. A study questions their accuracy",
+      "source": "Barrons",
+      "date": "November 14, 2019",
+      "url": "https://www.barrons.com/articles/bond-investors-morningstar-fund-star-ratings-study-academic-paper-categorization-style-bo-51573748889",
+      "type": "article"
+    },
+    {
+      "title": "Starbucks's open-bathroom policy is affecting its business, study says",
+      "source": "CBS News",
+      "date": "November 22, 2019",
+      "url": "https://www.cbsnews.com/news/how-is-starbucks-open-bathroom-policy-working-out-not-great-one-study-says/",
+      "type": "article"
+    },
+    {
+      "title": "Award-winning paper uses EDGAR IP data to track correlation to portfolio",
+      "source": "Pensions and Investments",
+      "date": "February 14, 2019",
+      "url": "https://www.pionline.com/article/20190204/PRINT/190209958/award-winning-paper-uses-edgar-ip-data-to-track-correlation-to-portfolio",
+      "type": "article"
+    },
+    {
+      "title": "Is the FTC changing how it defines a pyramid scheme? This North Texas skin care firm thinks so",
+      "source": "Dallas Morning News",
+      "date": "November 5, 2019",
+      "url": "https://www.dallasnews.com/business/2019/11/05/is-the-ftc-changing-how-it-defines-a-pyramid-scheme-this-north-texas-skin-care-firm-thinks-so/",
+      "type": "article"
+    },
+    {
+      "title": "How U.S. laws protecting America's best ideas are killing innovation",
+      "source": "Fortune",
+      "date": "January 22, 2015",
+      "url": "https://fortune.com/2015/01/22/how-u-s-laws-protecting-americas-best-ideas-are-killing-innovation/",
+      "type": "article"
+    },
+    {
+      "title": "Patent trolls: Why no one likes them",
+      "source": "Economist",
+      "date": "March 3, 2015",
+      "url": "https://www.economist.com/news/2015/03/03/why-no-one-likes-them",
+      "type": "article"
+    }
+  ],
+  "blog": [
+    {
+      "title": "The case for creating excess capacity at the US Food and Drug Administration",
+      "source": "VOX",
+      "date": "March 14, 2021",
+      "url": "https://cepr.org/voxeu/columns/case-creating-excess-capacity-us-food-and-drug-administration",
+      "type": "post"
+    },
+    {
+      "title": "The ESG-innovation Disconnect: Evidence from Green Patenting",
+      "source": "United Nations Academic Blog",
+      "date": "February 18, 2021",
+      "url": "https://www.unpri.org/pri-blog/the-esg-innovation-disconnect-evidence-from-green-patenting/7219.article",
+      "type": "post"
+    },
+    {
+      "title": "Too Many Managers",
+      "source": "Harvard Law School Forum on Corporate Governance",
+      "date": "March 7, 2023",
+      "url": "https://corpgov.law.harvard.edu/2023/03/07/too-many-managers-the-strategic-use-of-titles-to-avoid-overtime-payments/",
+      "type": "post"
+    },
+    {
+      "title": "IQ from IP: Simplifying Search in Portfolio Choice",
+      "source": "Harvard Law School Forum on Corporate Governance",
+      "date": "August 12, 2020",
+      "url": "https://corpgov.law.harvard.edu/2020/08/12/iq-from-ip-simplifying-search-in-portfolio-choice/",
+      "type": "post"
+    },
+    {
+      "title": "Buying the Verdict",
+      "source": "Harvard Law School Forum on Corporate Governance",
+      "date": "May 9, 2018",
+      "url": "https://corpgov.law.harvard.edu/2018/05/09/buying-the-verdict/",
+      "type": "post"
+    },
+    {
+      "title": "Earnings and the Value of Voting Rights",
+      "source": "Harvard Law School Forum on Corporate Governance",
+      "date": "October 3, 2016",
+      "url": "https://corpgov.law.harvard.edu/2016/10/03/earnings-and-the-value-of-voting-rights/",
+      "type": "post"
+    },
+    {
+      "title": "Trust Busting: The Effect of Fraud on Investor Behavior",
+      "source": "Harvard Law School Forum on Corporate Governance",
+      "date": "February 18, 2016",
+      "url": "https://corpgov.law.harvard.edu/2016/02/18/trust-busting-the-effect-of-fraud-on-investor-behavior/",
+      "type": "post"
+    },
+    {
+      "title": "Public Firms Use Advertising to Influence Court Case Outcomes",
+      "source": "DePaul University, Driehaus Center for Behavioral Finance Blog",
+      "date": "October 23, 2019",
+      "url": "https://blogs.depaul.edu/behavioral-finance/2019/10/23/public-firms-use-advertising-to-influence-court-case-outcomes/",
+      "type": "post"
+    },
+    {
+      "title": "Benefits of Publicity",
+      "source": "Columbia Law School's Blog on Corporations and The Capital Markets",
+      "date": "April 19, 2016",
+      "url": "https://clsbluesky.law.columbia.edu/2016/04/19/benefits-of-publicity/",
+      "type": "post"
+    }
+  ],
+  "service": {
+    "editorial_positions": ["Associate Editor - Review of Financial Studies (2023-2026*)", "Associate Editor - Review of Corporate Finance Studies (2025-2028*)", "Associate Editor - Management Science (2013-2024)"],
+    "refereeing": ["American Economic Review", "Journal of Finance", "Review of Financial Studies", "Journal of Financial Economics", "Journal of Accounting Research", "Accounting Review", "Journal of Financial and Quantitative Analysis", "Management Science", "Review of Finance", "Review of Accounting Studies"],
+    "conference_presentations": [
+      "NBER – 2025 Innovation",
+      "NBER – 2024 Climate Finance and the Sustainable Energy Transition",
+      "NBER – 2023 Personal Economics",
+      "NBER – 2022 Environment and Energy Economics",
+      "NBER – 2022 Long Term Asset Management",
+      "NBER – 2020 Asset Pricing",
+      "NBER – 2018 2015 Law and Economics",
+      "NBER – 2015 Behavioral Finance",
+      "NBER – 2014 Innovation",
+      "NBER – 2014 Real Estate",
+      "NBER – 2013 Behavioral Finance",
+      "NBER – 2012 International Trade",
+      "NBER – 2011 Consumer Finance",
+      "NBER – 2011-2014, 2025 Summer Institute",
+      "Western Finance Association – 2011, 2014, 2016, 2019, 2020, and 2025*",
+      "American Finance Association – 2010, 2012, 2013, 2014, 2015, 2017, 2018, 2019, 2020, 2021, 2023, 2024, and 2025",
+      "Texas Finance Festival – 2009, 2016",
+      "University of Miami – Behavioral Finance Conference – 2017",
+      "University of Kentucky Finance Conference – 2019, 2024, 2025",
+      "University of Michigan – Mitsui Center Conference – 2018",
+      "Vanderbilt University – Conference 2024",
+      "Arizona State Sonoran Conference, 2021",
+      "Journal of Accounting Research Conference – 2009",
+      "Financial Management Association – 2005, 2009, 2010",
+      "American Accounting Association Meeting – 2005, 2010, 2011",
+      "Wharton Rodney White Center Conference – 2016",
+      "Finance Down Under Conference – 2017, 2019",
+      "FIRS – 2019, 2022",
+      "EFA – 2019, 2020, 2023, 2025*",
+      "Review of Corporate Finance Studies Conference – 2020",
+      "Society of Labor Economists Annual Conference – 2021",
+      "Arizona State Conference – 2021",
+      "Florida State Suntrust Conference – 2014, 2021",
+      "Labor and Accounting Conference, WashU – 2022",
+      "Labor and Finance Conference – 2025",
+      "Asian Bureau of Finance and Economic Research (ABFER) Conference - 2024, 2025",
+      "Symposium on Economics and Institutions, CSEF and IGIER-Bocconi - 2022",
+      "RCFS Labor and Finance Conference, Capri – 2024",
+      "Finance, Organizations, and Markets (FOM) Conference, Dartmouth College – 2024",
+      "Midwest Finance Association – 2025"
+    ],
+    "university_talks": [
+      "2025 : UT-El Paso*, Emory*, University of Alabama*",
+      "2024 : University of Georgia, Tulane, Baruch, Gothenburg University, McGill",
+      "2023: Rice, Chapman, UC-Irvine, George Mason University, University of Rochester, University of Birmingham, University of Minnesota, National University of Singapore",
+      "2022: University of Minnesota, National University of Singapore, Georgia Tech, Singapore Management University, HKUST, University of Minnesota, University of Ottawa, Brandeis, CUNEF/Toulouse/ESCP Paris Corporate Finance Webinar",
+      "2021: University of Nebraska, Florida State University, Temple University, University of Alberta, George Washington University, University of Geneva",
+      "2020: Michigan State University, Federal Trade Commission",
+      "2019: Drexel University, Baylor University",
+      "2018: University of Chicago",
+      "2017: University of Miami",
+      "2016: U.S. Patent and Trademark Office, University of Illinois at Chicago, Queen's University, University of Cincinnati",
+      "2015: DePaul, Mannheim University, University of Zurich, Sabanci University, UC Berkeley",
+      "2014: Harvard Business School, HKUST, Singapore Management University",
+      "2013: University of South Florida",
+      "2012: Australia National University, University of Melbourne, Michigan State University",
+      "2010: University of Texas at Austin",
+      "2009: Georgia State University, University of Alabama",
+      "2008: Michigan State University",
+      "2004: University of Texas at Dallas"
+    ]
+  }
+}

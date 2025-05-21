@@ -1,113 +1,114 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Website</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" />
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
-</head>
-
-<body>
-    <!-- Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
-        <div class="container-fluid">
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ms-auto"
-                    style="font-size: 14pt; font-family: 'book antiqua', palatino, serif; font-weight:500;">
-                    <li class="nav-item"></li>
-                    <a class="nav-link" href="index.html">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="published-papers.html">Published Papers</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="working-papers.html">Working Papers</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="media-blog.html">Media/Blog</a>
-                    </li>
-                    <li class="nav-item"></li>
-                    <a class="nav-link" href="service.html">Service</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="assets/resume_umitgurun.pdf">Resume</a>
-                    </li>
-                    <!-- <button class="btn" id="toggleSearchBar" type="submit"><i
-                            class="fa-solid fa-magnifying-glass"></i></button> -->
-            </div>
-        </div>
-    </nav>
-    <div id="backdrop"></div>
-
-    <!-- Floating Search Bar -->
-    <div id="floatingSearchBar" class="container-fluid">
-        <form>
-            <div class="container-xl">
-                <div class="d-flex">
-                    <input class="form-control form-control-lg me-2" type="search" placeholder="Search..."
-                        aria-label="Search">
-                    <button class="btn btn-main btn-lg" type="submit"><i class="fa-solid fa-arrow-right"></i></button>
-                </div>
-            </div>
-        </form>
-    </div>
-
-    <!-- Main Content -->
-    <div class="container mt-5">
-        <div class="content-area entry-content">
-            <div class="d-flex justify-content-center mb-3">
-                <img class="img-fluid" src="assets/ugg_image.jpg" alt="">
-            </div>
-            <p>Umit Gurun is Stan Liebowitz professor of finance and accounting at the <em><strong>University of Texas
-                        at Dallas</strong></em>. He received his Ph.D from Michigan State University. He is a past
-                visiting professor at the University of Texas at Austin (2010-2011), Harvard University (2014), and a
-                research economist at <em>NBER </em>(2015-2021). He is currently an associate editor at the Review of
-                Financial Studies. &nbsp;Professor Gurun’s research focuses on a variety of issues in empirical asset
-                pricing and corporate finance, including the impact of financial media and advertising on asset prices;
-                the impact of counterfeit products on brand images, and firm valuation, labor disputes, among others.
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Umit Gurun | Professor of Finance and Accounting</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet" />
+  </head>
+  <body class="bg-white text-gray-900 font-sans">
+    <div class="min-h-screen flex flex-col">
+      <div class="flex-grow">
+        <!-- Profile Header -->
+        <div class="flex flex-col md:flex-row items-center md:items-start gap-4 pt-8 md:pt-16 pb-8 gap-4 md:gap-6 max-w-5xl mx-auto">
+          <div class="h-32 w-32 rounded-full overflow-hidden border-2 border-muted">
+            <img src="./assets/images/profile-image.webp" alt="Profile" class="h-full w-full object-cover scale-125 transform -translate-x-1 -translate-y-1" />
+          </div>
+          <div class="text-center md:text-left space-y-2">
+            <h1 class="text-4xl font-bold">Umit Gurun</h1>
+            <p class="text-xl font-medium">Stan Liebowitz Professor of Finance and Accounting</p>
+            <p class="text-lg">University of Texas at Dallas</p>
+            <p class="flex flex-wrap justify-center md:justify-start items-center gap-1 pt-2 text-gray-500">
+              <img class="h-4 w-4" src="./assets/images/icons/email.svg" alt="" />
+              umit.gurun@utdallas.edu
             </p>
-            <p>His research has been published in top journals, including Science, American Economic Review: Insights,
-                Journal of Finance, Review of Financial Studies, Journal of Financial Economics, Journal of Financial
-                and Quantitative Analysis, Journal of Accounting Research, Management Science, and Harvard Business
-                Review. His recent research relates to the effects of patent litigation on corporate innovation. In this
-                vein, he has been awarded a <em>National Science Foundation</em> grant to investigate the effects of
-                patent litigation policy on innovation outputs. He received <em>distinguished associate editor</em>
-                awards from Management Science multiple times, and a <em>distinguished referee</em> award from the
-                Review of Financial Studies in 2019. Finally, his research has also attracted attention in the popular
-                press, with cites in the Financial Times, Wall Street Journal, Institutional Investor, Fortune, and the
-                Economist.</p>
-                <!-- Default Statcounter code for
-                    https://umitgurun.github.io/ https://umitgurun.github.io/
-                    -->
-                    <script type="text/javascript">
-                    var sc_project=13041079;
-                    var sc_invisible=1;
-                    var sc_security="15db6be8";
-                    </script>
-                    <script type="text/javascript"
-                    src="https://www.statcounter.com/counter/counter.js"
-                    async></script>
-                    <noscript>
-                        <div class="statcounter ma-5">
-                            <a title="Web Analytics"
-                    href="https://statcounter.com/" target="_blank"><img
-                    class="statcounter"
-                    src="https://c.statcounter.com/13041079/0/15db6be8/1/"
-                    alt="Web Analytics"
-                    referrerPolicy="no-referrer-when-downgrade"></a>
-                        </div>
-                    </noscript>
-                <!-- End of Statcounter Code -->
+            <div class="flex flex-wrap justify-center md:justify-start gap-2 pt-3">
+              <a href="https://scholar.google.com/citations?user=SIompPEAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer" class="text-sm font-medium transition-colors border hover:bg-gray-100 h-9 rounded-md px-3 flex items-center gap-1">
+                Google Scholar
+                <img class="h-3 w-3" src="./assets/images/icons/extrnal-link.svg" alt="" />
+              </a>
+              <a href="https://twitter.com/UmitGurun" target="_blank" rel="noopener noreferrer" class="text-sm font-medium transition-colors border hover:bg-gray-100 h-9 rounded-md px-3 flex items-center gap-1">
+                Twitter
+                <img class="h-3 w-3" src="./assets/images/icons/extrnal-link.svg" alt="" />
+              </a>
+              <a href="https://umitgurun.github.io/assets/resume_umitgurun.pdf" target="_blank" rel="noopener noreferrer" class="text-sm font-medium transition-colors border hover:bg-gray-100 h-9 rounded-md px-3 flex items-center gap-1">
+                Resume
+                <img class="h-3 w-3" src="./assets/images/icons/extrnal-link.svg" alt="" />
+              </a>
+            </div>
+          </div>
         </div>
+
+        <!-- Tabs -->
+        <div class="border-b">
+          <div class="flex space-x-4 max-w-5xl mx-auto px-2 md:px-4 flex overflow-x-auto py-2 md:py-4 scrollbar-hide" role="tablist" aria-label="Profile Tabs">
+            <button class="tab-button px-4 py-2 text-sm font-medium rounded-md hover:bg-gray-100 bg-blue-500 text-white" role="tab" aria-selected="true" id="tab-about" data-tab="about">About</button>
+            <button class="tab-button px-4 py-2 text-sm font-medium rounded-md hover:bg-gray-100" role="tab" aria-selected="false" id="tab-research" data-tab="research">Research</button>
+            <button class="tab-button px-4 py-2 text-sm font-medium rounded-md hover:bg-gray-100" role="tab" aria-selected="false" id="tab-WP" data-tab="WP">W/P</button>
+            <button class="tab-button px-4 py-2 text-sm font-medium rounded-md hover:bg-gray-100" role="tab" aria-selected="false" id="tab-media" data-tab="media">Media</button>
+            <button class="tab-button px-4 py-2 text-sm font-medium rounded-md hover:bg-gray-100" role="tab" aria-selected="false" id="tab-blog" data-tab="blog">Blog</button>
+            <button class="tab-button px-4 py-2 text-sm font-medium rounded-md hover:bg-gray-100" role="tab" aria-selected="false" id="tab-service" data-tab="service">Service</button>
+          </div>
+        </div>
+
+        <!-- Tab Contents -->
+        <div class="px-4 py-8 max-w-5xl mx-auto">
+          <div class="tab-content" id="about" role="tabpanel" aria-labelledby="tab-about">
+            <h2 class="text-3xl font-bold mb-8">About</h2>
+            <div class="data-content rounded-lg border p-6">
+              <p class="mt-4 text-gray-700">Umit Gurun is Stan Liebowitz professor of finance and accounting at the University of Texas at Dallas. He received his Ph.D from Michigan State University. He is a past visiting professor at the University of Texas at Austin (2010-2011), Harvard University (2014), and a research economist at NBER (2015-2021). He is currently an associate editor at the Review of Financial Studies.</p>
+              <p class="mt-4 text-gray-700">Professor Gurun’s research focuses on a variety of issues in empirical asset pricing and corporate finance, including the impact of financial media and advertising on asset prices; the impact of counterfeit products on brand images, and firm valuation, labor disputes, among others.</p>
+              <p class="mt-4 text-gray-700">His research has been published in top journals, including Science, American Economic Review: Insights, Journal of Finance, Review of Financial Studies, Journal of Financial Economics, Journal of Financial and Quantitative Analysis, Journal of Accounting Research, Management Science, and Harvard Business Review. His recent research relates to the effects of patent litigation on corporate innovation. In this vein, he has been awarded a National Science Foundation grant to investigate the effects of patent litigation policy on innovation outputs.</p>
+              <p class="mt-4 text-gray-700">He received distinguished associate editor awards from Management Science multiple times, and a distinguished referee award from the Review of Financial Studies in 2019. Finally, his research has also attracted attention in the popular press, with cites in the Financial Times, Wall Street Journal, Institutional Investor, Fortune, and the Economist.</p>
+            </div>
+          </div>
+          <div class="tab-content hidden" id="research" role="tabpanel" aria-labelledby="tab-research">
+            <h2 class="text-3xl font-bold mb-8">Research</h2>
+            <div class="data-content"></div>
+          </div>
+          <div class="tab-content hidden" id="WP" role="tabpanel" aria-labelledby="tab-WP">
+            <h2 class="text-3xl font-bold mb-8">Working Papers</h2>
+
+            <div class="data-content"></div>
+          </div>
+          <div class="tab-content hidden" id="media" role="tabpanel" aria-labelledby="tab-media">
+            <h2 class="text-3xl font-bold mb-8">Media Coverage</h2>
+
+            <div class="data-content"></div>
+          </div>
+          <div class="tab-content hidden" id="blog" role="tabpanel" aria-labelledby="tab-blog">
+            <h2 class="text-3xl font-bold mb-8">Blog Posts</h2>
+
+            <div class="data-content"></div>
+          </div>
+          <div class="tab-content hidden" id="service" role="tabpanel" aria-labelledby="tab-service">
+            <div class="data-content"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Footer -->
+      <footer class="border-t py-6 mt-8">
+        <div class="max-w-5xl mx-auto px-4">
+          <div class="flex flex-col md:flex-row justify-between items-center gap-4">
+            <div class="text-sm text-gray-600">© <span id="current-year">2025</span> Umit Gurun. All rights reserved.</div>
+            <div class="flex items-center">
+              <a href="mailto:umit.gurun@utdallas.edu" class="flex items-center gap-x-1.5 text-gray-600 hover:text-gray-700">
+                <img class="h-4 w-4" src="./assets/images/icons/email.svg" alt="" />
+                <span>Contact Me</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </footer>
     </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="js/script.js"></script>
+    <script src="./assets/js/main.js"></script>
+
+    <style>
+      #about .data-content-kjsadlkjas {
+        background-color: black;
+      }
+    </style>
+  </body>
 </html>
