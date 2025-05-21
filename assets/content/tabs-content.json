@@ -11,7 +11,6 @@
       "journal": "Management Science (2025, forthcoming)",
       "authors": "(with Lauren Cohen and Quoc Nguyen)",
       "abstract": "No firm or sector of the global economy is untouched by innovation. In equilibrium, innovators will flock to (and innovation will occur) where the returns to innovative capital are the highest. In this paper, we document a strong empirical pattern in green patent production. Specifically, we find that oil, gas, and energy-producing firms – firms with lower Environmental, Social, and Governance (ESG) scores, and who are often explicitly excluded from ESG funds' investment universe – are key innovators in the United States' green patent landscape. These energy producers produce more, and significantly higher quality, green innovation. In many green technology spaces, they appear to be influential first-movers, not easily substitutable, and to produce ongoing foundational aspects of innovation and commercialization on which other alternative energy producers build. This is broadly true across the green patenting spectrum, and continues through the present day, concentrating specifically in certain green technology branches (for instance, in carbon capture).",
-      "citation_number": "[27]",
       "citation": "@article{lauren2025, title={The ESG – Innovation Disconnect: Evidence from Green Patenting}, author={Lauren Cohen and Quoc Nguyen, Gurun, Umit}, journal={Management Science (2025, forthcoming)}, url={https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3718682}, year={2025}}",
       "pdf": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3718682"
     },
@@ -20,7 +19,6 @@
       "journal": "(with Jiabin Wu, Serena Xiao, and Steven Xiao)",
       "authors": "Review of Financial Studies (2024)",
       "abstract": "We examine the recent rise of institutional investment in the single-family home rental market and its implications for renters' welfare. Using institutional mergers to identify local exogenous variation in institutional landlords' scale and market share, we show that rents increase in neighborhoods where both merging firms owned properties (i.e., overlapped neighborhoods) relative to other nonoverlapped neighborhoods. Meanwhile, the crime rate also significantly decreases in overlapped neighborhoods after mergers. Our findings suggest that while institutional landlords leverage their market power to extract greater surplus from renters, they also improve the quality of rental services by enhancing neighborhood safety.",
-      "citation_number": "[26]",
       "citation": "@article{gurun2023wall,title={Do Wall Street landlords undermine renters' welfare?},author={Gurun, Umit G and Wu, Jiabin and Xiao, Steven Chong and Xiao, Serena Wenjing},journal={The Review of Financial Studies},volume={36},number={1},pages={70--121},year={2023},publisher={Oxford University Press}}",
       "pdf": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4473423"
     },
@@ -29,7 +27,6 @@
       "journal": "(with Taylor Begley, Amiyatosh Purnanandam, and Daniel Weagley)",
       "authors": "Management Science (2024)",
       "abstract": "We find the Small Business Administration's disaster-relief home loan program denies significantly more loans in areas with larger shares of minorities, subprime borrowers, and higher income inequality. We find that risk-insensitive loan pricing, a feature present in many regulated and government-run lending programs, is an important driver of these disparities in access to credit. The differences in denial rates are disproportionately high compared with private-market lending and government-insured risk-sensitive loan pricing programs. Thus, despite ensuring 'fair' prices, the use of risk-insensitive pricing may lead to 'unfair' access to credit.",
-      "citation_number": "[25]",
       "citation": "@article{taylor2024,title={Disaster Lending: 'Fair' Prices, but 'Unfair' Access},author={Taylor Begley and Amiyatosh Purnanandam and and Daniel Weagley, Gurun, Umit},journal={Management Science},url={https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060413},year={2024}}",
       "pdf": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060413"
     },
@@ -38,7 +35,6 @@
       "journal": "(with Lauren Cohen)",
       "authors": "Management Science (2024)",
       "abstract": "We document evidence that firms systematically increase specialized, locally targeted advertising following the firm being taken to trial in that given location, precisely following initiation of the suit. In particular, we use legal actions brought against publicly traded firms over the 20-year sample period that progress to trial between 1995 and 2014. In terms of magnitude, the increase is sizable: targeted local advertising increases by 23% (t = 4.37) following the suit. They focus their advertisement spikes specifically toward jury trials, and in fact specifically toward the most likely jury pool. Last, we document that these advertising spikes are associated with verdicts, increasing the probability of a favorable outcome.",
-      "citation_number": "[24]",
       "citation": "@article{lauren2024,title={Buying the Verdict},author={Lauren Cohen, Gurun, Umit},journal={Management Science},url={https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2928406},year={2024}}",
       "pdf": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2928406"
     },
@@ -47,7 +43,6 @@
       "journal": "(with Jordan Nickerson and David Solomon)",
       "authors": "Journal of Financial and Quantitative Analysis (2023)",
       "abstract": "While corporate social responsibility by firms aims at improving welfare for different social groups, whether it achieves this is often difficult to measure. After Apr. 2018 protests, Starbucks enacted policies that anybody could sit in their stores and use the bathroom without making a purchase. Using anonymized cellphone location data, we estimate this led to a 7.0% decline in attendance relative to other nearby coffee shops. The effect is 84% larger near homeless shelters and larger for Starbucks' wealthier customers. The average time spent per visit declined by 4.1%. Public urination citations decreased near Starbucks locations, but other minor crimes were unchanged.",
-      "citation_number": "[23]",
       "citation": "@article{jordan2023,title={Measuring and Improving Stakeholder Welfare is Easier Said Than Done},author={Jordan Nickerson and David Solomon, Gurun, Umit},journal={Journal of Financial and Quantitative Analysis},url={https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3959727},year={2023}}",
       "pdf": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3959727"
     },
@@ -56,7 +51,6 @@
       "journal": "(with Mehmet Canayaz)",
       "authors": "Journal of Financial and Quantitative Analysis (2023)",
       "abstract": "We study how the U.S. government's anti-counterfeiting enforcement actions through Special 301 Reports influence U.S. businesses. We show that anti-counterfeiting enforcement in foreign countries improves U.S. firms' sales, profitability, and valuations. Firms significantly reduce capital and research and development investments when their brands and products are protected from counterfeiting activities. Anti-counterfeiting enforcement measures also improve brand asset value, brand profitability, brand inventiveness, market penetration, and customer loyalty.",
-      "citation_number": "[22]",
       "citation": "@article{mehmet2023,title={Fake Products, Real Effects: Evidence from Special 301 Actions},author={Mehmet Canayaz, Gurun, Umit},journal={Journal of Financial and Quantitative Analysis},url={https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3209071},year={2023}}",
       "pdf": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3209071"
     },
@@ -65,7 +59,6 @@
       "journal": "(with Huaizhi Chen and Lauren Cohen)",
       "authors": "Journal of Finance (2021)",
       "abstract": "We provide evidence that bond fund managers misclassify their holdings, and that these misclassifications have a real and significant impact on investor capital flows. The problem is widespread, resulting in up to 31.4% of funds being misclassified with safer profiles, compared to their true, publicly reported holdings. 'Misclassified funds'—those that hold risky bonds but claim to hold safer bonds—appear to on-average outperform lower risk funds in their peer groups. Within category groups, misclassified funds receive more Morningstar stars and higher investor flows. However, when we correctly classify them based on actual risk, these funds are mediocre performers.",
-      "citation_number": "[21]",
       "citation": "@article{chen2021don,title={Don't take their word for it: the misclassification of bond mutual funds},author={Chen, Huaizhi and Cohen, Lauren and Gurun, Umit G},journal={The Journal of Finance},volume={76},number={4},pages={1699--1730},year={2021},publisher={Wiley Online Library}}",
       "pdf": "https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.12727"
     },
@@ -74,7 +67,6 @@
       "journal": "(with Noah Stoffman and Scott Yonker)",
       "authors": "Journal of Financial Economics (2021)",
       "abstract": "We investigate the importance of client relationships in the financial advisory industry. We exploit firm-level variation in adoption of the Broker Protocol, which enabled clients to follow their advisers to member firms without fear of litigation. We show that advisers' ability to maintain client relationships is a significant predictor of their employment decisions; that about 40% of client assets follow advisers when they move; and that once clients are unlocked, firms become less willing to fire advisers for misconduct. Firms that unlock their clients subsequently experience higher levels of misconduct and increase their fees, calling into question whether clients are better off.",
-      "citation_number": "[20]",
       "citation": "@article{gurun2021unlocking,title={Unlocking clients: The importance of relationships in the financial advisory industry},author={Gurun, Umit G and Stoffman, Noah and Yonker, Scott E},journal={Journal of Financial Economics},volume={141},number={3},pages={1218--1243},year={2021},publisher={Elsevier}}",
       "pdf": "https://www.sciencedirect.com/science/article/abs/pii/S0304405X17303240"
     },
@@ -83,7 +75,6 @@
       "journal": "(with Lauren Cohen and Danielle Li)",
       "authors": "American Economic Review: Insights (2021)",
       "abstract": "Absent explicit quotas, incentives, reporting, or fiscal year-end motives, drug approvals around the world surge in December, at month-ends, and before respective major national holidays. Drugs approved before these informal deadlines are associated with significantly more adverse effects, including more hospitalizations, life-threatening incidents, and deaths – particularly, drugs most rushed through the approval process. These patterns are consistent with a model in which regulators face pressure to approve drugs before holidays and weekends.",
-      "citation_number": "[19]",
       "citation": "@article{cohen2021internal,title={Internal deadlines, drug approvals, and safety problems},author={Cohen, Lauren and Gurun, Umit G and Li, Danielle},journal={American Economic Review: Insights},volume={3},number={1},pages={67--82},year={2021},publisher={American Economic Association 2014 Broadway, Suite 305, Nashville, TN 37203}}",
       "pdf": "https://www.aeaweb.org/articles?id=10.1257/aeri.20200588"
     },
@@ -92,7 +83,6 @@
       "journal": "(with Zhi Da, Bin Li, and Mitch Warachka)",
       "authors": "Management Science (2021)",
       "abstract": "A large literature reports that proximity influences investment. We extend the measurement of proximity beyond distance and report that air travel reduces local investment bias. This result is confirmed using the initiation of connecting flights through recently opened air hubs because investment at destinations served by these connecting flights increases after, not before, their initiation. Air travel also broadens the investor base of firms and lowers their cost of equity by approximately 1%. Overall, air travel improves the diversification of investor portfolios and lowers the cost of equity for firms.",
-      "citation_number": "[18]",
       "citation": "@article{da2021investment,title={Investment in a smaller world: The implications of air travel for investors and firms},author={Da, Zhi and Gurun, Umit G and Li, Bin and Warachka, Mitch},journal={Management Science},volume={67},number={1},pages={417--435},year={2021},publisher={INFORMS}}",
       "pdf": "https://umitgurun.github.io/assets/gurun_investment.pdf"
     },
@@ -101,7 +91,6 @@
       "journal": "(with Huaizhi Chen, Lauren Cohen, Dong Lou, and Chris Malloy)",
       "authors": "Journal of Financial Economics (2020)",
       "abstract": "Using a novel database that tracks web traffic on the Security Exchange Commission's EDGAR server between 2004 and 2015, we show that institutional investors gather information on a very particular subset of firms and insiders, and their surveillance is very persistent over time. This tracking behavior has powerful implications for their portfolio choice and its information content. An institution that downloaded an insider trading filing by a given firm last quarter increases its likelihood of downloading an insider trading filing on the same firm by more than 41.3 percentage points this quarter. Moreover, the average tracked stock that an institution buys generates annualized alphas of over 12% relative to the purchase of an average non tracked stock. We find that institutional managers tend to track top executives and to share educational and locational commonalities with the specific insiders they choose to follow. Collectively, our results suggest that the information in tracked trades is important for fundamental firm value and is only revealed following the information-rich dual trading by insiders and linked institutions.",
-      "citation_number": "[17]",
       "citation": "@article{chen2020iq,title={IQ from IP: Simplifying search in portfolio choice},author={Chen, Huaizhi and Cohen, Lauren and Gurun, Umit and Lou, Dong and Malloy, Christopher},journal={Journal of Financial Economics},volume={138},number={1},pages={118--137},year={2020},publisher={Elsevier}}",
       "pdf": "https://umitgurun.github.io/assets/gurun_ipfromiq.pdf"
     },
@@ -110,7 +99,6 @@
       "journal": "(with Irem Demirci and Erkan Yonder)",
       "authors": "Review of Finance (2020)",
       "abstract": "Constructing a novel database on the real-estate holdings of public firms, we show that distressed firms sell their real-estate assets at a discount relative to healthy firms. We find that distress discount in real-estate assets is less pronounced for sellers with less liquidity-constrained industry peers and in machinery-heavy industries. We also document that asset redeployability and the availability of potential buyers are two important property-specific determinants of the distress discount. Additionally, firms' property portfolios that are less redeployable with less potential buyers exacerbate the negative impact of financial distress on the cost of borrowing.",
-      "citation_number": "[16]",
       "citation": "@article{demirci2020shuffling,title={Shuffling through the bargain bin: Real-estate holdings of public firms},author={Demirci, Irem and Gurun, Umit G and Yonder, Erkan},journal={Review of Finance},volume={24},number={3},pages={647--675},year={2020},publisher={Oxford University Press}}",
       "pdf": "https://umitgurun.github.io/assets/gurun_bargain.pdf"
     },
@@ -119,7 +107,6 @@
       "journal": "(with Lauren Cohen and Scott D. Kominers)",
       "authors": "Management Science (2019)",
       "abstract": "We provide the first large-sample evidence on the behavior and impact of non-practicing entities (NPEs) in the intellectual property space. We find that, on average, NPEs appear to behave as opportunistic patent trolls. NPEs sue cash-rich firms and target cash in business segments unrelated to alleged infringement at essentially the same frequency as they target cash in segments related to alleged infringement. By contrast, cash is neither a key driver of intellectual property lawsuits by practicing entities (e.g., IBM and Intel) nor of any other type of litigation against firms. We find further suggestive evidence of NPE opportunism: targeting of firms that have reduced ability to defend themselves, repeated assertions of lower-quality patents, increased assertion activity nearing patent expiration, and forum shopping. We find, moreover, that NPE litigation has a real negative impact on innovation at targeted firms: firms substantially reduce their innovative activity after settling with NPEs (or losing to them in court). Meanwhile, we neither find any markers of significant NPE pass-through to end innovators, nor of a positive impact of NPEs on innovation in the industries in which they are most prevalent.",
-      "citation_number": "[15]",
       "citation": "@article{cohen2019patenttitle={Patent trolls: Evidence from targeted firms}author={Cohen, Lauren and Gurun, Umit G and Kominers, Scott Duke}journal={Management Science}volume={65}number={12}pages={5461--5486}year={2019}publisher={INFORMS}}",
       "pdf": "https://umitgurun.github.io/assets/gurun_troll2.pdf"
     },
@@ -128,7 +115,6 @@
       "journal": "(with Noah Stoffman and Scott Yonkers)",
       "authors": "Review of Financial Studies (2018)",
       "abstract": "We study the importance of trust in the investment advisory industry by exploiting the geographic dispersion of victims of the Madoff Ponzi scheme. Residents of communities that were exposed to the fraud subsequently withdrew assets from investment advisers and increased deposits at banks. Additionally, exposed advisers were more likely to close. Advisers who provided services that can build trust, such as financial planning advice, experienced fewer withdrawals. Our evidence suggests that the trust shock was transmitted through social networks. Taken together, our results show that trust plays a critical role in the financial intermediation industry.",
-      "citation_number": "[14]",
       "citation": "@article{gurun2018trust,title={Trust busting: The effect of fraud on investor behavior},author={Gurun, Umit G and Stoffman, Noah and Yonker, Scott E},journal={The Review of Financial Studies},volume={31},number={4},pages={1341--1376},year={2018},publisher={Oxford University Press}}",
       "pdf": "https://umitgurun.github.io/assets/gurun_trust.pdf"
     },
@@ -137,7 +123,6 @@
       "journal": "(with Rebecca Files)",
       "authors": "Contemporary Accounting Research (2018)",
       "abstract": "We investigate whether restatements announced by economically related firms influence the contract terms a borrower receives from lenders. A restatement by a major customer firm increases the loan spread of a borrower by 11 basis points, on average. The contagion effects of customer restatements are higher (45 basis points) when a borrower's switching costs are high. Restatements by peer firms in the same industry also increase a borrower's loan spread, and this increase occurs regardless of restatement severity. Moreover, the sensitivity of loan spread to peer restatements is significantly greater when the restating peer firms are also in the bank's lending portfolio, suggesting that a lender's personal experience with restatements in an industry makes it more attuned to the potential implications of these restatements for the borrowing firm. Finally, our results suggest that lenders utilize information from peer restatements to anticipate future restatements by the borrowing firm.",
-      "citation_number": "[13]",
       "citation": "@article{rebecca2018,title={Lender's Response to Customer Restatements},author={Rebecca Files, Gurun, Umit},journal={Contemporary Accounting Research},url={https://umitgurun.github.io/assets/gurun_restatement.pdf},year={2018}}",
       "pdf": "https://umitgurun.github.io/assets/gurun_restatement.pdf"
     },
@@ -146,7 +131,6 @@
       "journal": "(with Lauren Cohen and Chris Malloy)",
       "authors": "Journal of Finance (2017)",
       "abstract": "Using customs and port authority data, we show that firms are significantly more likely to trade with countries that have a large resident population near their firm headquarters, and that these connected trades are their most valuable international trades. Using the formation of World War II Japanese internment camps to isolate exogenous shocks to local ethnic populations, we identify a causal link between local networks and firm trade. Firms are also more likely to acquire target firms, and report increased segment sales, in connected countries. Our results point to a surprisingly large role of immigrants as economic conduits for firms.",
-      "citation_number": "[12]",
       "citation": "@article{lauren2017,title={Resident Networks and Corporate Connections: Evidence from World War II Internment Camps},author={Lauren Cohen and Chris Malloy, Gurun, Umit},journal={Journal of Finance},url={https://umitgurun.github.io/assets/gurun_resident.pdf},year={2017}}",
       "pdf": "https://umitgurun.github.io/assets/gurun_resident.pdf"
     },
@@ -155,7 +139,6 @@
       "journal": "(with Lauren Cohen, John Golden, and Scott D. Kominers)",
       "authors": "Boston University Law Review (2017)",
       "abstract": "The patent system is commonly justified as a way to promote social welfare and, more specifically, technological progress. For years, however, there has been concern that patent litigation is undermining, rather than furthering, these goals. Particularly in the United States, the time, cost, and complications of patent suits provide openings for opportunistic assertions of infringement. This Article proposes a way to address information problems that facilitate opportunistic assertion: an automatic process of administrative review at the threshold of infringement lawsuits in U.S. district courts. The results of this review would be non-binding but admissible in later court proceedings. Whether conducted by an independent Patent Litigation Review Board or a division of the U.S. Patent and Trademark Office, such review would: (1) help discourage—or bring to an earlier and less costly end—relatively weak patent-infringement lawsuits; (2) strengthen the litigation and bargaining positions of patentees with especially robust cases; (3) flag weaknesses in litigation positions to the benefit of private parties and the courts; and (4) provide policymakers with information that facilitates evaluation and adjustment of patent system performance.",
-      "citation_number": "[11]",
       "citation": "@article{lauren2017,title={'Troll' Check: A Proposal for Administrative Review of Patent Litigation},author={Lauren Cohen and John Golden and and Scott D. Kominers, Gurun, Umit},journal={Boston University Law Review},url={https://umitgurun.github.io/assets/gurun_trollcheck.pdf},year={2017}}",
       "pdf": "https://umitgurun.github.io/assets/gurun_trollcheck.pdf"
     },
@@ -164,7 +147,6 @@
       "authors": "(with Alex Butler and Jess Cornaggia)",
       "journal": "Management Science (2017)",
       "abstract": "This paper uses detailed data from an online peer-to-peer lending intermediary to test whether local access to finance affects consumers' willingness to pay for loans. After controlling for local economic conditions and borrower credit quality, we find that borrowers who reside in areas with good access to bank finance request loans with lower interest rates. This effect is stronger for borrowers with poor credit and those seeking small loans, suggesting that local access to finance is more important for marginal borrowers. Overall, our findings shed light on how consumers substitute between alternative sources of finance.",
-      "citation_number": "[10]",
       "citation": "@article{alex2017,title={Substitution between Sources of Finance in Consumer Capital Markets},author={Alex Butler and Jess Cornaggia, Gurun, Umit},journal={Management Science},url={https://umitgurun.github.io/assets/gurun_substitute.pdf},year={2017}}",
       "pdf": "https://umitgurun.github.io/assets/gurun_substitute.pdf"
     },
@@ -173,7 +155,6 @@
       "journal": "(with Lauren Cohen and Scott D. Kominers)",
       "authors": "Harvard Business Review (2017)",
       "abstract": "This paper documents shifts in patent litigation strategy following legal reforms. We show that non-practicing entities have adapted to regulatory changes by relocating litigation activities to favorable jurisdictions.",
-      "citation_number": "[9]",
       "citation": "@article{lauren2017,title={Patent Trolling Isn't Dead — It's Just Moving to Delaware},author={Lauren Cohen and Scott D. Kominers, Gurun, Umit},journal={Harvard Business Review},url={https://umitgurun.github.io/assets/gurun_troll.pdf},year={2017}}",
       "pdf": "https://umitgurun.github.io/assets/gurun_troll.pdf"
     },
@@ -182,7 +163,6 @@
       "journal": "(with Gregor Matvos and Amit Seru)",
       "authors": "Journal of Finance (2016)",
       "abstract": "Using information on advertising and mortgages originated by subprime lenders, we study whether advertising helped consumers find cheaper mortgages. Lenders that advertise more within a region sell more expensive mortgages, measured as the excess rate of a mortgage after accounting for borrower, contract, and regional characteristics. These effects are stronger for mortgages sold to less sophisticated consumers. We exploit regional variation in mortgage advertising induced by the entry of Craigslist and other tests to demonstrate that these findings are not spurious. Analyzing advertising content reveals that initial/introductory rates are frequently advertised in a salient fashion, where reset rates are not.",
-      "citation_number": "[8]",
       "citation": "@article{gurun2016advertising,title={Advertising expensive mortgages},author={Gurun, Umit G and Matvos, Gregor and Seru, Amit},journal={The Journal of Finance},volume={71},number={5},pages={2371--2416},year={2016},publisher={Wiley Online Library}}",
       "pdf": "http://umitgurun.github.io/assets/gurun_mortgageadvertising.pdf"
     },
@@ -191,7 +171,6 @@
       "journal": "(with Lauren Cohen and Scott D. Kominers)",
       "authors": "Science (2016)",
       "abstract": "We provide the first large-sample evidence on the behavior and impact of non-practicing entities (NPEs) in the intellectual property space. We find that, on average, NPEs appear to behave as opportunistic patent trolls. NPEs sue cash-rich firms and target cash in business segments unrelated to alleged infringement at essentially the same frequency as they target cash in segments related to alleged infringement. By contrast, cash is neither a key driver of intellectual property lawsuits by practicing entities (e.g., IBM and Intel) nor of any other type of litigation against firms. We find further suggestive evidence of NPE opportunism: targeting of firms that have reduced ability to defend themselves, repeated assertions of lower-quality patents, increased assertion activity nearing patent expiration, and forum shopping.",
-      "citation_number": "[7]",
       "citation": "@article{cohen2016growing,title={The growing problem of patent trolling},author={Cohen, Lauren and Gurun, Umit G and Kominers, Scott Duke},journal={Science},volume={352},number={6285},pages={521--522},year={2016},publisher={American Association for the Advancement of Science}}",
       "video": "https://www.youtube.com/watch?v=ClpzNQVljjY",
       "pdf": "https://umitgurun.github.io/assets/gurun_troll.pdf"
@@ -201,7 +180,6 @@
       "journal": "(with Rick Johnston and Stanimir Markov)",
       "authors": "Management Science (2016)",
       "abstract": "We explore sell-side debt analysts' contributions to the efficiency of securities markets. We document that debt returns lag equity returns less when debt research coverage exists, which is consistent with debt analysts facilitating the process by which available information is impounded in debt prices. The effect of debt research on the debt market's lag is incremental to, but comparable in magnitude to, hedge fund ownership's effect. No such effect exists for credit rating agencies. We also find that the dissemination of debt reports has an immediate effect on return volatility in both markets, which is consistent with debt analysts providing new information to securities markets. Increased return covariation suggests that this information impacts the pricing of debt and equity in the same direction. A large percentage of debt reports do not induce any immediate debt market return reaction but do induce an equity return reaction, which is consistent with new information being provided despite the absence of a debt market reaction. Finally, there is a systematic variation in the debt market's trading and return reactions to debt research. Timely reports and those by high-reputation brokers induce a quicker trading response, thus enhancing liquidity, whereas only timely reports induce a greater return response. This study illuminates the institutional underpinnings of debt market efficiency, and it has important implications for information content tests in the debt market, where trading is limited.",
-      "citation_number": "[6]",
       "citation": "@article{rick2016,title={Sell-Side Debt Analysts and Market Efficiency},author={Rick Johnston and Stanimir Markov, Gurun, Umit},journal={Management Science},url={https://umitgurun.github.io/assets/gurun_debtanalyst.pdf},year={2016}}",
       "pdf": "https://umitgurun.github.io/assets/gurun_debtanalyst.pdf"
     },
@@ -210,7 +188,6 @@
       "journal": "(with Zhi Da and Mitch Warachka)",
       "authors": "Review of Financial Studies (2014)",
       "abstract": "We test a frog-in-the-pan (FIP) hypothesis that predicts investors are inattentive to information arriving continuously in small amounts. Intuitively, we hypothesize that a series of frequent gradual changes attracts less attention than infrequent dramatic changes. Consistent with the FIP hypothesis, we find that continuous information induces strong persistent return continuation that does not reverse in the long run. Momentum decreases monotonically from 5.94% for stocks with continuous information during their formation period to –2.07% for stocks with discrete information but similar cumulative formation-period returns. Higher media coverage coincides with discrete information and mitigates the stronger momentum following continuous information.",
-      "citation_number": "[5]",
       "citation": "@article{da2014frog,title={Frog in the pan: Continuous information and momentum},author={Da, Zhi and Gurun, Umit G and Warachka, Mitch},journal={The review of financial studies},volume={27},number={7},pages={2171--2218},year={2014},publisher={Oxford University Press}}",
       "pdf": "https://umitgurun.github.io/assets/gurun_fip.pdf"
     },
@@ -219,7 +196,6 @@
       "journal": "(with Alex Butler)",
       "authors": "Journal of Finance (2012)",
       "abstract": "When local media report news about local companies, they use fewer negative words compared to the same media reporting about nonlocal companies. We document that one reason for this positive slant is the firms' local media advertising expenditures. Abnormal positive local media slant strongly relates to firm equity values. The effect is stronger for small firms; firms held predominantly by individual investors; and firms with illiquid or highly volatile stock, low analyst following, or high dispersion of analyst forecasts. These findings show that news content varies systematically with the characteristics and conflicts of interest of the source.",
-      "citation_number": "[4]",
       "citation": "@article{gurun2012don,title={Don't believe the hype: Local media slant, local advertising, and firm value},author={Gurun, Umit G and Butler, Alexander W},journal={The Journal of Finance},volume={67},number={2},pages={561--598},year={2012},publisher={Wiley Online Library}}",
       "pdf": "https://umitgurun.github.io/assets/gurun_hype.pdf"
     },
@@ -228,7 +204,6 @@
       "journal": "(with Alex Butler)",
       "authors": "Review of Financial Studies (2012)",
       "abstract": "Mutual funds whose managers are in the same educational network as the firm's CEO are more likely to vote against shareholder-initiated proposals to limit executive compensation than out-of-network funds are. This voting propensity is stronger when voting among the funds in a family is not unanimous. Furthermore, CEOs of firms who have relatively high levels of educationally connected mutual fund ownership have higher levels of compensation than their unconnected counterparts. This aspect of executive compensation is related to both the abnormal trading performance of the connected investors in the firm and the perceived quality of firm management by the connected investor.",
-      "citation_number": "[3]",
       "citation": "@article{alex2012,title={Connected Companies' Compensation},author={Alex Butler, Gurun, Umit},journal={Review of Financial Studies},url={https://umitgurun.github.io/assets/gurun_ccc.pdf},year={2012}}",
       "pdf": "https://umitgurun.github.io/assets/gurun_ccc.pdf"
     },
@@ -237,7 +212,6 @@
       "journal": "(with William Cready)",
       "authors": "Journal of Accounting Research (2010)",
       "abstract": "This analysis identifies a distinct immediate announcement period negative relation between earnings announcement surprises and aggregate market returns. Such a relation implies that market participants use earnings information in forming expectations about expected aggregate discount rates and, specifically, that good earnings news is associated with a positive shock to required returns. Consistent with this interpretation we find that Treasury bond rates and implied future inflation expectations respond directly to earnings news. We also find some evidence that the negative relation between earnings news and market return persists beyond the immediate announcement period, suggesting that market participants do not immediately fully impound these future market return implications of aggregate earnings news.",
-      "citation_number": "[2]",
       "citation": "@article{cready2010aggregate,title={Aggregate market reaction to earnings announcements},author={Cready, William M and Gurun, Umit G},journal={Journal of Accounting Research},volume={48},number={2},pages={289--334},year={2010},publisher={Wiley Online Library}}",
       "pdf": "https://umitgurun.github.io/assets/gurun_earnings.pdf"
     },
@@ -246,7 +220,6 @@
       "journal": "(with Geoff Booth)",
       "authors": "Journal of Empirical Finance (2010)",
       "abstract": "This paper investigates the nature and behavior of the domestic (local) currency market that existed in Florence (Italy) during the late 14th and early 15th centuries (a.k.a. the Early Renaissance). We find that the extant volatility and microstructure models developed for modern asset markets are able to describe the statistical volatility properties observed for the denaro-florin exchange rate. Volatility is clustered and is related to the bid–ask spread. This supports the notion that, although there are huge social, industrial and technological differences between capitalism then and now, individuals trading financial assets in an organized venue behave in a similar manner.",
-      "citation_number": "[1]",
       "citation": "@article{booth2008volatility,title={Volatility clustering and the bid--ask spread: Exchange rate behavior in early Renaissance Florence},author={Booth, G Geoffrey and Gurun, Umit G},journal={Journal of Empirical Finance},volume={15},number={1},pages={131--144},year={2008},publisher={Elsevier}}",
       "pdf": "https://umitgurun.github.io/assets/gurun_volatility.pdf"
     }

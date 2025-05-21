@@ -88,12 +88,6 @@ function renderResearchTab(content, container) {
     titleWrapper.className = "flex items-center gap-2";
     card.appendChild(titleWrapper);
 
-    // Create the citation number
-    const citationNumber = document.createElement("div");
-    citationNumber.className = "text-gray-900 text-md font-bold hidden";
-    citationNumber.textContent = research.citation_number;
-    titleWrapper.appendChild(citationNumber);
-
     // Create the title section
     const title = document.createElement("h3");
     title.className = "text-lg font-bold text-blue-400 mb-0";
@@ -128,7 +122,6 @@ function renderResearchTab(content, container) {
     abstractButton.textContent = "Show Abstract";
     abstractButton.addEventListener("click", () => {
       const isNowVisible = abstractContent.classList.toggle("hidden");
-      citationNumber.classList.toggle("hidden");
       abstractButton.textContent = isNowVisible ? "Show Abstract" : "Hide Abstract";
     });
     buttonsContainer.appendChild(abstractButton);
@@ -204,7 +197,6 @@ function renderWPTab(content, container) {
     abstractButton.textContent = "Show Abstract";
     abstractButton.addEventListener("click", () => {
       const isNowVisible = abstractContent.classList.toggle("hidden");
-      citationNumber.classList.toggle("hidden");
       abstractButton.textContent = isNowVisible ? "Show Abstract" : "Hide Abstract";
     });
     buttonsContainer.appendChild(abstractButton);
