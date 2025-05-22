@@ -148,7 +148,7 @@ function renderResearchTab(content, container) {
       pdfButton.target = "_blank";
       pdfButton.rel = "noopener noreferrer";
       pdfButton.className = "text-sm font-medium transition-colors border border-gray-300 hover:bg-gray-100 h-9 rounded-md px-3 flex items-center gap-1";
-      pdfButton.innerHTML = 'PDF <img class="h-3 w-3 ml-1" src="./assets/images/icons/extrnal-link.svg" alt="" />';
+      pdfButton.innerHTML = 'LINK <img class="h-3 w-3 ml-1" src="./assets/images/icons/extrnal-link.svg" alt="" />';
       buttonsContainer.appendChild(pdfButton);
     }
 
