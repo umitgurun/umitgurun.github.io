@@ -151,12 +151,12 @@
       "pdf": "https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2560"
     },
     {
-      "title": "Patent Trolling Isn't Dead — It's Just Moving to Delaware",
-      "authors": "(with Lauren Cohen and Scott D. Kominers)",
-      "journal": "Harvard Business Review (2017)",
-      "abstract": "This paper documents shifts in patent litigation strategy following legal reforms. We show that non-practicing entities have adapted to regulatory changes by relocating litigation activities to favorable jurisdictions.",
-      "citation": "@article{lauren2017,title={Patent Trolling Isn't Dead — It's Just Moving to Delaware},author={Lauren Cohen and Scott D. Kominers, Gurun, Umit},journal={Harvard Business Review},url={https://umitgurun.github.io/assets/gurun_troll.pdf},year={2017}}",
-      "pdf": "https://hbr.org/2017/06/patent-trolling-isnt-dead-its-just-moving-to-delaware"
+      "title": "Substitution between Sources of Finance in Consumer Capital Markets",
+      "authors": "(with Alex Butler and Jess Cornaggia)",
+      "journal": "Management Science (2017)",
+      "abstract": "This paper uses detailed data from an online peer-to-peer lending intermediary to test whether local access to finance affects consumers' willingness to pay for loans. After controlling for local economic conditions and borrower credit quality, we find that borrowers who reside in areas with good access to bank finance request loans with lower interest rates. This effect is stronger for borrowers with poor credit and those seeking small loans, suggesting that local access to finance is more important for marginal borrowers. Overall, our findings shed light on how consumers substitute between alternative sources of finance.",
+      "citation": "@article{alex2017,title={Substitution between Sources of Finance in Consumer Capital Markets},author={Alex Butler and Jess Cornaggia, Gurun, Umit},journal={Management Science},url={https://umitgurun.github.io/assets/gurun_substitute.pdf},year={2017}}",
+      "pdf": "https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2560"
     },
     {
       "title": "Patent Trolling Isn't Dead — It's Just Moving to Delaware",
