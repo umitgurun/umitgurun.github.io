@@ -85,7 +85,7 @@ function renderResearchTab(content, container) {
 
     // Create the title section
     const title = document.createElement("h3");
-    title.className = "text-lg font-bold text-blue-400 mb-0";
+    title.className = "text-base font-bold text-blue-400 mb-0";
     title.textContent = research.title;
     card.appendChild(title);
 
@@ -166,7 +166,7 @@ function renderWPTab(content, container) {
 
     // Create the title section
     const title = document.createElement("h3");
-    title.className = "text-lg font-bold text-blue-400 mb-0";
+    title.className = "text-base font-bold text-blue-400 mb-0";
     title.textContent = research.title;
     card.appendChild(title);
 
