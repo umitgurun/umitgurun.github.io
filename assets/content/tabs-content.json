@@ -144,14 +144,6 @@
     },
     {
       "title": "Substitution between Sources of Finance in Consumer Capital Markets",
-      "journal": "(with Alex Butler and Jess Cornaggia)",
-      "authors": "Management Science (2017)",
-      "abstract": "This paper uses detailed data from an online peer-to-peer lending intermediary to test whether local access to finance affects consumers' willingness to pay for loans. After controlling for local economic conditions and borrower credit quality, we find that borrowers who reside in areas with good access to bank finance request loans with lower interest rates. This effect is stronger for borrowers with poor credit and those seeking small loans, suggesting that local access to finance is more important for marginal borrowers. Overall, our findings shed light on how consumers substitute between alternative sources of finance.",
-      "citation": "@article{alex2017,title={Substitution between Sources of Finance in Consumer Capital Markets},author={Alex Butler and Jess Cornaggia, Gurun, Umit},journal={Management Science},url={https://umitgurun.github.io/assets/gurun_substitute.pdf},year={2017}}",
-      "pdf": "https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2560"
-    },
-    {
-      "title": "Substitution between Sources of Finance in Consumer Capital Markets",
       "authors": "(with Alex Butler and Jess Cornaggia)",
       "journal": "Management Science (2017)",
       "abstract": "This paper uses detailed data from an online peer-to-peer lending intermediary to test whether local access to finance affects consumers' willingness to pay for loans. After controlling for local economic conditions and borrower credit quality, we find that borrowers who reside in areas with good access to bank finance request loans with lower interest rates. This effect is stronger for borrowers with poor credit and those seeking small loans, suggesting that local access to finance is more important for marginal borrowers. Overall, our findings shed light on how consumers substitute between alternative sources of finance.",
