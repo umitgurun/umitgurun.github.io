@@ -83,16 +83,11 @@ function renderResearchTab(content, container) {
     const card = document.createElement("div");
     card.className = "mb-8 border border-gray-200 p-4 rounded-lg";
 
-    //  Create the title wrapper
-    const titleWrapper = document.createElement("div");
-    titleWrapper.className = "flex items-center gap-2";
-    card.appendChild(titleWrapper);
-
     // Create the title section
     const title = document.createElement("h3");
     title.className = "text-lg font-bold text-blue-400 mb-0";
     title.textContent = research.title;
-    titleWrapper.appendChild(title);
+    card.appendChild(title);
 
     // Create the authors section
     const authors = document.createElement("p");
@@ -276,7 +271,7 @@ function renderMediaBlogTab(content, container) {
 
     // Create title element
     const title = document.createElement("h3");
-    title.className = "text-base font-bold text-blue-500 mb-1.5";
+    title.className = "text-base font-bold text-blue-400 mb-1.5";
     title.textContent = post.title;
     postDiv.appendChild(title);
 
