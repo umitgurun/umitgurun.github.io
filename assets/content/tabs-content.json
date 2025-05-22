@@ -140,12 +140,12 @@
       "journal": "Boston University Law Review (2017)",
       "abstract": "The patent system is commonly justified as a way to promote social welfare and, more specifically, technological progress. For years, however, there has been concern that patent litigation is undermining, rather than furthering, these goals. Particularly in the United States, the time, cost, and complications of patent suits provide openings for opportunistic assertions of infringement. This Article proposes a way to address information problems that facilitate opportunistic assertion: an automatic process of administrative review at the threshold of infringement lawsuits in U.S. district courts. The results of this review would be non-binding but admissible in later court proceedings. Whether conducted by an independent Patent Litigation Review Board or a division of the U.S. Patent and Trademark Office, such review would: (1) help discourage—or bring to an earlier and less costly end—relatively weak patent-infringement lawsuits; (2) strengthen the litigation and bargaining positions of patentees with especially robust cases; (3) flag weaknesses in litigation positions to the benefit of private parties and the courts; and (4) provide policymakers with information that facilitates evaluation and adjustment of patent system performance.",
       "citation": "@article{lauren2017,title={'Troll' Check: A Proposal for Administrative Review of Patent Litigation},author={Lauren Cohen and John Golden and and Scott D. Kominers, Gurun, Umit},journal={Boston University Law Review},url={https://umitgurun.github.io/assets/gurun_trollcheck.pdf},year={2017}}",
-      "pdf": "htthttps://www.bu.edu/bulawreview/files/2017/10/GOLDEN.pdf"
+      "pdf": "https://www.bu.edu/bulawreview/files/2017/10/GOLDEN.pdf"
     },
     {
       "title": "Substitution between Sources of Finance in Consumer Capital Markets",
-      "authors": "(with Alex Butler and Jess Cornaggia)",
-      "journal": "Management Science (2017)",
+      "journal": "(with Alex Butler and Jess Cornaggia)",
+      "authors": "Management Science (2017)",
       "abstract": "This paper uses detailed data from an online peer-to-peer lending intermediary to test whether local access to finance affects consumers' willingness to pay for loans. After controlling for local economic conditions and borrower credit quality, we find that borrowers who reside in areas with good access to bank finance request loans with lower interest rates. This effect is stronger for borrowers with poor credit and those seeking small loans, suggesting that local access to finance is more important for marginal borrowers. Overall, our findings shed light on how consumers substitute between alternative sources of finance.",
       "citation": "@article{alex2017,title={Substitution between Sources of Finance in Consumer Capital Markets},author={Alex Butler and Jess Cornaggia, Gurun, Umit},journal={Management Science},url={https://umitgurun.github.io/assets/gurun_substitute.pdf},year={2017}}",
       "pdf": "https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2560"
