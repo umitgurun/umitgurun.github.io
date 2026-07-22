@@ -6,7 +6,15 @@
     "He received distinguished associate editor awards from Management Science multiple times, and a distinguished referee award from the Review of Financial Studies in 2019. Finally, his research has also attracted attention in the popular press, with cites in the Financial Times, Wall Street Journal, Institutional Investor, Fortune, and the Economist."
   ],
   "research": [
-        {
+    {
+      "title": "Gatekeepers and Kingmakers: Do Superplatfroms Distort Digital Competition?",
+      "authors": "(with Zheng Liu and Steven Xiao)",
+      "journal": "Management Science (2026, forthcoming)",
+      "abstract": "The rising dominance of superplatforms raises concerns about conflicts of interest and externalities on innovation, as they act as both marketplace gatekeepers and strategic investors. Studying Google’s dual role via Google Ventures (GV) and the Android marketplace, we find Google-backed startups receive 115% more reviews, 12% higher ratings, and 77% fewer bug complaints than their iOS counterparts—despite no major app updates. These gains stem from selective review removal and platform promotion. Using a difference-in-differences approach with iOS versions as controls, we isolate treatment from selection effects. Our findings challenge platform neutrality and highlight subtle mechanisms of competitive distortion.",
+      "citation": "@article{gurun2025gatekeepers, title={Gatekeepers and Kingmakers: Do Superplatforms Distort Digital Competition?}, author={Gurun, Umit G and Liu, Zheng and Xiao, Steven Chong}, year={2025}}",
+      "pdf": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863436"
+    },
+    {
       "title": "Consumption Smoothing via Product Markets",
       "authors": "(with Alex Butler, Irem Demirci, and Yessenia Tellez)",
       "journal": "Review of Corporate Finance Studies (2026, forthcoming)",
